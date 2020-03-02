@@ -16,7 +16,7 @@ This standard addresses the following areas:
 
 ### Topics
 * [Identification of Animals, Herds, and Locations](docs/ADS_Identification-of-Animals-Herds-and-Locations.md)
-  * [Animal Identification](Animal Data Standards/ADS_Identification-of-Animals-Herds-and-Locations.md#Animal-Identification)
+  * [Animal Identification](ADS_Identification-of-Animals-Herds-and-Locations.md#Animal-Identification)
   * [Location Identification](docs/ADS_Identification-of-Animals-Herds-and-Locations.md#Location-Identification)
   * [Herd and Flock Identification](docs/ADS_Identification-of-Animals-Herds-and-Locations.md#Herd-and-Flock-Identification)   
   * [Registration of Namespaces](docs/ADS_Identification-of-Animals-Herds-and-Locations.md#Registration-of-Namespaces)
