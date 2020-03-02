@@ -51,7 +51,7 @@ Related standards include:
 
 This document is part of a work stream focusing on Data Standards for interchanging Livestock (Animal) data. Work on this project commenced in late 2012, funded by New Zealand dairy farmers through [DairyNZ](https://www.dairynz.co.nz/) and the [Ministry for Primary Industries](https://www.mpi.govt.nz/) through the [Primary Growth Partnership](https://www.mpi.govt.nz/funding-and-programmes/sustainable-food-and-fibre-futures/primary-growth-partnership/).  Additional funding was provided by [FarmIQ Systems](https://farmiq.co.nz/), along with in-kind contribution from [Rezare Systems](https://www.rezare.co.nz/).
 
-![DairyNZLogo](Images/DairyNZ.png "DairyNZ Logo")
+![DairyNZLogo](/Images/DairyNZ.png "DairyNZ Logo")
 ![MPILogo](MPI.png "MPI Logo")
 ![FARMIQLogo](FARMIQ.png "FARMIQ Logo")
 ![RezareSystemsLogo](RezareSystems.png "Rezare Systems Logo")
