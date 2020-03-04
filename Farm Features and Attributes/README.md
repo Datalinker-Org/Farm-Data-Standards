@@ -55,10 +55,10 @@ This document is part of a work stream focusing on Data Standards for interchang
 
 Part funded by New Zealand dairy farmers through [DairyNZ](https://www.dairynz.co.nz/) and the [Ministry for Primary Industries](https://www.mpi.govt.nz/) through the [Primary Growth Partnership](https://www.mpi.govt.nz/funding-and-programmes/sustainable-food-and-fibre-futures/primary-growth-partnership/) funding to the [Transforming the Dairy Value Chain](https://www.mpi.govt.nz/funding-and-programmes/sustainable-food-and-fibre-futures/primary-growth-partnership/completed-pgp-programmes/transforming-the-dairy-value-chain/). Part funded also by the [Red Meat Profit Partnership](https://www.rmpp.co.nz/) through its Primary Growth Partnership with Ministry for Primary Industries, [Alliance Group](https://www.alliance.co.nz/), [ANZCO Foods](https://anzcofoods.com/), [ANZ Bank](https://www.anz.com), [Beef and Lamb New Zealand Limited](https://beeflambnz.com/) (representing sheep and beef farmers), [Blue Sky Meats](https://bluesky.co.nz/), [Greenlea Premier Meats](https://www.greenlea.co.nz/), [Progressive Meats](https://www.progressivemeats.co.nz/), [Rabobank](rabobank.com), and [Silver Fern Farms](https://www.silverfernfarms.com/). 
 
-![DairyNZLogo](DairyNZ.png "DairyNZ Logo")
-![RMPPLogo](RMPP.png "RMPP Logo")
-![MPILogo](MPI.png "MPI Logo")
-![RezareSystemsLogo](RezareSystems.png "Rezare Systems Logo")
+![DairyNZLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/DairyNZ.png)
+![RMPPLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/RMPP.png)
+![MPILogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/MPI.png)
+![RezareSystemsLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/RezareSystems.png)
 
 #### Referenced Documents 
 
