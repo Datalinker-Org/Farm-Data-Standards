@@ -36,22 +36,22 @@ Breed Society Pedigree No | 123456-JR |The dairy industry herd book ID25 for ped
 
 #### Footnotes
 
-<b id="f1">1</b> Specified in [ISO 11784:1996](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=25881) and referenced in [ISO 14223-2:2010](https://www.iso.org/standard/45364.html). [↩](#ISO) 
+<b id="f1">1.</b> Specified in [ISO 11784:1996](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=25881) and referenced in [ISO 14223-2:2010](https://www.iso.org/standard/45364.html). [↩](#ISO) 
 
-<b id="f2">2</b> [International Committee for Animal Recording](https://www.icar.org/). [↩](#ICAR) 
+<b id="f2">2.</b> [International Committee for Animal Recording](https://www.icar.org/). [↩](#ICAR) 
 
-<b id="f3">3</b> [The Use of EPC RFID Standards for Livestock and Meat Traceability](http://www.rfid-pathfinder.org.nz/wp-content/uploads/2012/08/EPCIS-Final-Report5.pdf), Gary Hartley, NZ RFID Pathfinder Group, January 2013. [↩](#RFID) 
+<b id="f3">3.</b> [The Use of EPC RFID Standards for Livestock and Meat Traceability](http://www.rfid-pathfinder.org.nz/wp-content/uploads/2012/08/EPCIS-Final-Report5.pdf), Gary Hartley, NZ RFID Pathfinder Group, January 2013. [↩](#RFID) 
 
-<b id="f4">4</b> [GS1](http://www.gs1.org/epcglobal). [↩](#GS1)
+<b id="f4">4.</b> [GS1](http://www.gs1.org/epcglobal). [↩](#GS1)
 
-<b id="f5">5</b> [Animal Health Board](https://ospri.co.nz/) and [programme](https://ospri.co.nz/our-programmes/tbfree/about-the-tbfree-programme/purpose-and-plan/). [↩](#AHB)
+<b id="f5">5.</b> [Animal Health Board](https://ospri.co.nz/) and [programme](https://ospri.co.nz/our-programmes/tbfree/about-the-tbfree-programme/purpose-and-plan/). [↩](#AHB)
 
-<b id="f6">6</b> NZS 8100, 2011 draft Herd Testing Standard (and earlier 2007 edition). [↩](#NZS)
+<b id="f6">6.</b> NZS 8100, 2011 draft Herd Testing Standard (and earlier 2007 edition). [↩](#NZS)
 
-<b id="f7">7</b> For more about Traka tags, see the [NAIT Visual Tag guidelines](http://www.nait.co.nz/news-and-publications/nait-user-guides-and-fact-sheets/tagging-requirements/). [↩](#Tracka)
+<b id="f7">7.</b> For more about Traka tags, see the [NAIT Visual Tag guidelines](http://www.nait.co.nz/news-and-publications/nait-user-guides-and-fact-sheets/tagging-requirements/). [↩](#Tracka)
 
-<b id="f8">8</b> [SIL: Sheep Improvement Limited](https://www.sil.co.nz/) – a wholly owned subsidiary of Beef+Lamb NZ. [↩](#SIL)
+<b id="f8">8.</b> [SIL: Sheep Improvement Limited](https://www.sil.co.nz/) – a wholly owned subsidiary of Beef+Lamb NZ. [↩](#SIL)
 
-<b id="f9">9</b> [Merino Select](http://www.sheepgenetics.org.au/Breeding-services/MERINOSELECT-Home). [↩](#Merino)
+<b id="f9">9.</b> [Merino Select](http://www.sheepgenetics.org.au/Breeding-services/MERINOSELECT-Home). [↩](#Merino)
 
-<b id="f10">10</b> [Interbull Guidelines](https://interbull.org/ib/nat_id_system). [↩](#Interbull)
+<b id="f10">10.</b> [Interbull Guidelines](https://interbull.org/ib/nat_id_system). [↩](#Interbull)
