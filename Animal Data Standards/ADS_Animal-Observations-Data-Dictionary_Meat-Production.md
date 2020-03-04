@@ -42,6 +42,7 @@ Dentition | Enumeration | See [Dentition](#Dentition).
 Fault is used in the Carcass Characteristics observation in the Meat Production category.
 
 Valid values for Fault:
+
 Category | Attributes
 :------- | :---------
 Disease | Actino <br> C.Ovis <br> Condemned part <br> Endocarditis <br> Enteritis <br> Epicarditis Pericarditis <br> GIT Neoplasm <br> GIT Peritonitis <br> Infarcts <br> Liver fluke <br> Lympho <br> M. Bovis <br> Melanosis <br> Neoplasm <br> Nephritis <br> Peritonitis <br> Pluck CLA <br> Pneumonia <br> Pyogenic lesions <br> Sarco-Cysts <br> Septicaemia <br> Xanthosis <br> Other
@@ -53,6 +54,7 @@ Other Faults | Arithritis <br> Pleurisy
 Dentition is used in the Carcass Characteristics observation in the Meat Production category.
 
 Valid values for Dentition as used by meat processors are:
+
 Sheep |
 :---- |
 Lamb|
