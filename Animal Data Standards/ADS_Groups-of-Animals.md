@@ -10,7 +10,7 @@ Groups may be defined and used for different purposes:
 
 * A session is frequently used by on-farm data capture systems to describe the group of animals that were handled and measured at the same time (the group of cows present at milking or the group of sheep weighed and vaccinated together); 
 
-* Drafting Lists or Groups are provided to on-farm control equipment to allow animals to be automatically drafted into different pens by equipment that reads [EID](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) tags and controls gates; and
+* Drafting Lists or Groups are provided to on-farm control equipment to allow animals to be automatically drafted into different pens by equipment that reads [EID](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) tags and controls gates; and
 
 * Groups of animals are also defined for reporting and comparison purposes in farm management software.
 
@@ -23,4 +23,4 @@ This Standard does not define all methods by which groups of animals may be defi
 * Identifying a group as a subject of an observation.
 
 
-_The attributes of a Group are listed in [Group Membership](docs/ADS_Animal-Lifecycle-Data-Dictionary_Group-Membership.md)._
+_The attributes of a Group are listed in [Group Membership](ADS_Animal-Lifecycle-Data-Dictionary_Group-Membership.md)._
