@@ -55,7 +55,7 @@ A record of surgery performed, especially for major surgery.
 
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
-Surgery Procedure | Enumeration | See [ACVS](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) list of Surgical Procedures[^ACVS]. 
+Surgery Procedure | Enumeration | See [ACVS](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) list of Surgical Procedures<sup id="ACVS">[3](#f3)</sup>. 
 Surgery Part | Enumeration | Body part or system affected, coded using the 2nd level of the [ICAR](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) diagnosis coding system<sup id="ACVM">[2](#f2)</sup>.
 Surgery Outcome | String |
 
