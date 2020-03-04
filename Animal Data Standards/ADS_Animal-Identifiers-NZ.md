@@ -9,7 +9,7 @@ Contents:
 
 Identifier | Example | Comments
 :--------- | :------ | :-------
-ISO 11784[1] | 981-018285778231 | The [ISO](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) 11784 codes are managed by the international committee for animal recording (ICAR[^ICAR]). There are several representations of the code: <ul><li>Hexadecimal, which includes the entire code including flag bits</li><li>Decimal, which generally just shows the country or manufacturer code and animal number.</li></ul>In New Zealand, we use manufacturer codes where animal numbers are maintained uniquely by manufacturers. This is in contrast to (for instance) Europe, where a country-code is used, and each country maintains the unique set of animal numbers.
+ISO 11784<sup id="ISO">[1](#f1)</sup> | 981-018285778231 | The [ISO](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) 11784 codes are managed by the international committee for animal recording (ICAR[^ICAR]). There are several representations of the code: <ul><li>Hexadecimal, which includes the entire code including flag bits</li><li>Decimal, which generally just shows the country or manufacturer code and animal number.</li></ul>In New Zealand, we use manufacturer codes where animal numbers are maintained uniquely by manufacturers. This is in contrast to (for instance) Europe, where a country-code is used, and each country maintains the unique set of animal numbers.
 GS1 SGTIN | urn:epc:id:sgtin:3.003700.00542.77346595 | Some trials with UHF RFID in deer[^RFID-Pathfinder] have used an SGTIN (Serialised Global Trade Item Number) issued by global standards organisation GS1[^GS1], which functions much like a barcode identifies a category of products, but with the addition of a unique item number as well.
 
 #### Official Recording Scheme Identifiers
@@ -36,7 +36,7 @@ Breed Society Pedigree No | 123456-JR |The dairy industry herd book ID25 for ped
 
 #### Footnotes
 
-[1]: Specified in [ISO 11784:1996](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=25881) and referenced in [ISO 14223-2:2010](https://www.iso.org/standard/45364.html).
+<b id="f1">1</b> Footnote content here. [↩](#ISO) Specified in [ISO 11784:1996](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=25881) and referenced in [ISO 14223-2:2010](https://www.iso.org/standard/45364.html).
 
 [^ICAR]: [International Committee for Animal Recording](https://www.icar.org/).
 
