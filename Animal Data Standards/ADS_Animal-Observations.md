@@ -32,4 +32,4 @@ Item Label |A [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definiti
 
 ##### Footnotes
 
-<b id="f1">1</b> OGC: [Observations and Measurements](https://www.opengeospatial.org/standards/om) [↩](#OGC)
+<b id="f1">1.</b> OGC: [Observations and Measurements](https://www.opengeospatial.org/standards/om) [↩](#OGC)
