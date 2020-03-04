@@ -5,7 +5,7 @@ Contents:
 
 #### Velvet Measurements
 
-Record of velvet production measurements[^DINZ].
+Record of velvet production measurements<sup id="DINZ">[1](#f1)</sup>.
 
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
@@ -62,4 +62,4 @@ Manufacturing|
 
 ##### Footnotes
 
-[^DINZ]: [New Zealand Industry Agreed Velvet Grading Guidelines](https://www.deernz.org/sites/dinz/files/Red%20Grading%20Poster%20FINISHED.pdf), Deer Industry New Zealand, September 2013.
+<b id="f1">1</b> [New Zealand Industry Agreed Velvet Grading Guidelines](https://www.deernz.org/sites/dinz/files/Red%20Grading%20Poster%20FINISHED.pdf), Deer Industry New Zealand, September 2013. [↩](#DINZ)
