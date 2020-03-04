@@ -15,31 +15,31 @@ This standard addresses the following areas:
 * Observations including records of an activity carried out, events that have occurred and measurements that have been taken.
 
 ### Topics
-* [Identification of Animals, Herds, and Locations](docs/ADS_Identification-of-Animals-Herds-and-Locations.md)
+* [Identification of Animals, Herds, and Locations](ADS_Identification-of-Animals-Herds-and-Locations.md)
   * [Animal Identification](ADS_Identification-of-Animals-Herds-and-Locations.md#Animal-Identification)
-  * [Location Identification](docs/ADS_Identification-of-Animals-Herds-and-Locations.md#Location-Identification)
-  * [Herd and Flock Identification](docs/ADS_Identification-of-Animals-Herds-and-Locations.md#Herd-and-Flock-Identification)   
-  * [Registration of Namespaces](docs/ADS_Identification-of-Animals-Herds-and-Locations.md#Registration-of-Namespaces)
-* [Animal Life Data](docs/ADS_Animal-Life-Data.md)
-  * [Animal Identification](docs/ADS_Identification-of-Animals-Herds-and-Locations.md)
-  * [Animal Characteristics](docs/ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Characteristics)
-  * [Animal Parentage](docs/ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Parentage)
-  * [Animal State](docs/ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-State)
-* [Groups of Animals](docs/ADS_Groups-of-Animals.md)
-  * [Group Membership](docs/ADS_Animal-Lifecycle-Data-Dictionary_Group-Membership.md)
-  * [Group Attributes Data Dictionary](docs/ADS_Group-Attributes-Data-Dictionary.md)
-* [Animal Observations](docs/ADS_Animal-Observations.md)
-  * [Observations and Sampling](docs/ADS_Animal-Observations.md#Observations-and-Sampling)
-  * [Observation Attributes](docs/ADS_Animal-Observations.md#Observation-Attributes)
-  * [Animal Observations Data Dictionary](docs/ADS_Animal-Observations-Data-Dictionary.md)
+  * [Location Identification](ADS_Identification-of-Animals-Herds-and-Locations.md#Location-Identification)
+  * [Herd and Flock Identification](ADS_Identification-of-Animals-Herds-and-Locations.md#Herd-and-Flock-Identification)   
+  * [Registration of Namespaces](ADS_Identification-of-Animals-Herds-and-Locations.md#Registration-of-Namespaces)
+* [Animal Life Data](ADS_Animal-Life-Data.md)
+  * [Animal Identification](ADS_Identification-of-Animals-Herds-and-Locations.md)
+  * [Animal Characteristics](ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Life)
+  * [Animal Parentage](ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Parentage)
+  * [Animal State](ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-State)
+* [Groups of Animals](ADS_Groups-of-Animals.md)
+  * [Group Membership](ADS_Animal-Lifecycle-Data-Dictionary_Group-Membership.md)
+  * [Group Attributes Data Dictionary](ADS_Group-Attributes-Data-Dictionary.md)
+* [Animal Observations](ADS_Animal-Observations.md)
+  * [Observations and Sampling](ADS_Animal-Observations.md#Observations-and-Sampling)
+  * [Observation Attributes](ADS_Animal-Observations.md#Observation-Attributes)
+  * [Animal Observations Data Dictionary](ADS_Animal-Observations-Data-Dictionary.md)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/ADS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](ADS_Wiki-Management.md) page.
 
 #### Related Documents
 
 Related standards include:
 
-* [Stock Reconciliation Data Standard](docs/SCDS_Portal.md)
+* [Stock Reconciliation Data Standard](Stock-Reconciliation/SCDS_Portal.md)
 
 * [Financial Data Standard](docs/FDS_Portal.md)
 
