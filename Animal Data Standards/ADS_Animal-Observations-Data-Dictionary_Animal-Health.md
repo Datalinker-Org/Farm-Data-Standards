@@ -95,6 +95,7 @@ Species Common Name | Enumeration: Cattle, Deer, Goats, Sheep |  Describes the s
 
 #### Treatment Method
 Treatment Method is used in the Treatment observation in the Animal Health category.
+
 Valid values for Treatment Method |
 :-------------------------------- |
 Capsule|
