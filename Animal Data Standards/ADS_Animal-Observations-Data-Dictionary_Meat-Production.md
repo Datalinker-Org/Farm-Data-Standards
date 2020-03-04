@@ -23,7 +23,7 @@ GR Fat Depth | Float | Depth of fat in mm at the GR measurement site.
 Fat Grade | Enumeration | Species-specific coding of fat grade at plant.
 Conformation Grade | Enumeration | Species-specific coding of conformation at plant.
 Faults | Enumeration | See [Carcass Faults or Defects](#Carcass-Faults-or-Defects).
-Fault Locations | Enumeration | Body part or system affected, coded using [ICAR](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) diagnosis coding system.
+Fault Locations | Enumeration | Body part or system affected, coded using [ICAR](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) diagnosis coding system.
 Meat Colour | Integer | From 1 (pink) to 7 (dark maroon).
 Fat Colour | Integer | From 1 (pure white) to 7 (creamy yellow).
 EMA Ultrasound | Float | Eye Muscle Area Ultrasound; in cm2.
