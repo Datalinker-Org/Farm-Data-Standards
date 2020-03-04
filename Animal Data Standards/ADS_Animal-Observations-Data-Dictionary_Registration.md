@@ -16,8 +16,8 @@ Also called “Tagging”; the act of applying an official tag. Applies to indiv
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
 Tag Type | Enumeration | See [Animal Tag Types](#Animal-Tag-Types).
-ICAR Product Code | Integer | [Product code](https://www.service-icar.com/tables/Tabella3.php) from [ICAR](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations).
-Animal Identifier | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) | An animal identifier as specified in [Animal Identification](#Animal-Identification) using a registered namespace.
+ICAR Product Code | Integer | [Product code](https://www.service-icar.com/tables/Tabella3.php) from [ICAR](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations).
+Animal Identifier | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) | An animal identifier as specified in [Animal Identification](#Animal-Identification) using a registered namespace.
 Removing Tag | Boolean | True if the tag is being removed – the default is False.
 
 #### Change Identification
@@ -27,9 +27,9 @@ The act of replacing an official tag, also called “Retagging” and “Replace
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
 Tag Type | Enumeration | See [Animal Tag Types](#Animal-Tag-Types).
-Previous Animal Identifier | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) | Where known, the previous URN of the animal. 
-ICAR Product Code | Integer | [Product code](https://www.service-icar.com/tables/Tabella3.php) from [ICAR](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations).
-Animal Identifier | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) | The new [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) of the animal.
+Previous Animal Identifier | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) | Where known, the previous URN of the animal. 
+ICAR Product Code | Integer | [Product code](https://www.service-icar.com/tables/Tabella3.php) from [ICAR](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations).
+Animal Identifier | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) | The new [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) of the animal.
 Retagging Reason | String | A textual explanation.
 
 
@@ -50,9 +50,9 @@ The act of changing from one “herd” (including flock), or other official rec
 
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
-Source Herd Identifier | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) string | Herd identifier.
+Source Herd Identifier | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) string | Herd identifier.
 Source Herd Display Name | String | Display name.
-Destination Herd Identifier | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) string | Herd identifier.
+Destination Herd Identifier | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) string | Herd identifier.
 Destination Herd Display Name | String | Display name.
 
 #### Change Ownership
@@ -73,19 +73,19 @@ Tally | Integer | Count of animals involved.
 
 #### Change Location
 
-A movement from one official location to another. We have called this “Change Location” rather than Movement to avoid confusion with moves within a location (for instance, between paddocks). Also called movement, transfer, grazing, sale, or purchase. Recorded for individuals for cattle and deer because of [NAIT](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) requirements.
+A movement from one official location to another. We have called this “Change Location” rather than Movement to avoid confusion with moves within a location (for instance, between paddocks). Also called movement, transfer, grazing, sale, or purchase. Recorded for individuals for cattle and deer because of [NAIT](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) requirements.
 
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
-Source Location Identifier | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) string | Location identifier.
+Source Location Identifier | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) string | Location identifier.
 Source Location Display Name | String | Display name.
-Destination Location Identifier | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) string | Location identifier.
+Destination Location Identifier | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) string | Location identifier.
 Destination Location Display Name | String | Display name.
 Transport Method | Enumeration | See [Transport Methods](#Transport-Methods).
 Transport Operator | String | Operator name.
 Waybill | String | Waybill or transaction ID.
 Vehicle Identification | String | Fleet number or licence plate.
-Transit Time | [ISO(docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) 8601  | Period (duration).
+Transit Time | [ISO](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) 8601  | Period (duration).
 Tally | Integer | Count of animals involved.
 
 ##### Animal Tag Types
