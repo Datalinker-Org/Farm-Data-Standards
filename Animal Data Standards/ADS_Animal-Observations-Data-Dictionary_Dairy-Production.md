@@ -32,7 +32,7 @@ Also called “End Lactation”, this marks the point from which an animal will 
 
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
-Drying Off Reason | Enumeration | See [Drying Off Reason](ASD_AppendixB_DairyProduction.md#Drying-Off-Reason).
+Drying Off Reason | Enumeration | See [Drying Off Reason](#Drying-Off-Reason).
 Lactation End Date | Date |
 
 #### Milk Characteristics
@@ -54,18 +54,18 @@ Conductivity | Float | Conductivity of the milk in mS/cm.
 
 Records that a milking monitored as part of an occasional (batch or DSM) herd test occurred. Must be recorded against individuals.
 
-_Herd Test observations have been normalised against the requirements of the Dairy Herd Testing Standards (NZS8100) and the Dairy Industry Good Animal Database ([DIGAD](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations)), as NZ dairy herd testing is required to use this mechanism._
+_Herd Test observations have been normalised against the requirements of the Dairy Herd Testing Standards (NZS8100) and the Dairy Industry Good Animal Database ([DIGAD](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations)), as NZ dairy herd testing is required to use this mechanism._
 
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
 Milking Number | Integer | Indicates the number of the milking within the herd test (for instance, the first or second milking).
 AM/PM Indicator | Enumeration | am, pm; Indicates whether the milking measured represents a morning or afternoon milking using traditional batch milking methodology.
-Pretest Milking Date Stamp | [ISO](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) 8601 | Date (and time): the date and time of the immediate previous milking, in herd tests.
+Pretest Milking Date Stamp | [ISO](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) 8601 | Date (and time): the date and time of the immediate previous milking, in herd tests.
 Milking Interval | Integer | In distributed milking systems the time between this observation and the previous milking; hours.
 Herd Test Valid Indicator | Integer: | 0 = Valid <br> 1 = Not valid
 Sample Regime Type Code | Integer: | 1 = Twice a day (am & pm) <br> 2 = Single sample-AM (>= 2 milkings) <br> 3 = Single sample-PM (>= 2 milkings) <br> 4 = Once a day
 Average Number of Milkings | Float | Average number of times that an animal is milked expressed in terms of a 24-hour period at the time of the herd test sample milking.
-Abnormal Test Type Code | Enumeration | See [Abnormal Dairy Herd Test Type Code](ASD_AppendixB_DairyProduction.md#Abnormal-Dairy-Herd-Test-Type-Code).
+Abnormal Test Type Code | Enumeration | See [Abnormal Dairy Herd Test Type Code](#Abnormal-Dairy-Herd-Test-Type-Code).
 Sample Identifier | String | Identifier of sample sent away for processing.
 
 ##### Drying Off Reason
