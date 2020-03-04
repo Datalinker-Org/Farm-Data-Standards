@@ -39,9 +39,9 @@ For more information about revisions and version updates, or to make suggestions
 
 Related standards include:
 
-* [Stock Reconciliation Data Standard](Stock-Reconciliation/SCDS_Portal.md)
+* [Stock Reconciliation Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Stock-Reconciliation/README.md)
 
-* [Financial Data Standard](docs/FDS_Portal.md)
+* [Financial Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Financial%20Data%20Standard/README.md)
 
 * [Pasture, Grazing, and Feed Data Standard](docs/PGFDS_Portal.md)
 
@@ -51,10 +51,10 @@ Related standards include:
 
 This document is part of a work stream focusing on Data Standards for interchanging Livestock (Animal) data. Work on this project commenced in late 2012, funded by New Zealand dairy farmers through [DairyNZ](https://www.dairynz.co.nz/) and the [Ministry for Primary Industries](https://www.mpi.govt.nz/) through the [Primary Growth Partnership](https://www.mpi.govt.nz/funding-and-programmes/sustainable-food-and-fibre-futures/primary-growth-partnership/).  Additional funding was provided by [FarmIQ Systems](https://farmiq.co.nz/), along with in-kind contribution from [Rezare Systems](https://www.rezare.co.nz/).
 
-![DairyNZLogo](Images/DairyNZ.png)
-![MPILogo](Images/MPI.png)
-![FARMIQLogo](Images/FarmIQ.png)
-![RezareSystemsLogo](Images/RezareSystems.png)
+![DairyNZLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/DairyNZ.png)
+![MPILogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/MPI.png)
+![FARMIQLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/FarmIQ.png)
+![RezareSystemsLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/RezareSystems.png)
 
 #### Referenced Documents
 
