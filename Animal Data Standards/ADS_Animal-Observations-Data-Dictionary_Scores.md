@@ -1,17 +1,17 @@
 ### Score Observations
 
 Contents:
-* [Condition](#Condition).
-* [Overall Conformation](#Overall-Conformation).
-* [Footrot](#Footrot).
-* [Teeth](#Teeth).
-* [Daggy](#Daggy).
-* [Mothering](#Mothering).
-* [Vigour](#Vigour).
-* [Udder](#Udder).
-* [Farmer Opinion Traits](#Farmer-Opinion-Traits).
-* [Conformation](#Conformation).
-* [Udder Conformation](#Udder-Conformation).
+* [Condition](#Condition)
+* [Overall Conformation](#Overall-Conformation)
+* [Footrot](#Footrot)
+* [Teeth](#Teeth)
+* [Daggy](#Daggy)
+* [Mothering](#Mothering)
+* [Vigour](#Vigour)
+* [Udder](#Udder)
+* [Farmer Opinion Traits](#Farmer-Opinion-Traits)
+* [Conformation](#Conformation)
+* [Udder Conformation](#Udder-Conformation)
 
 #### Condition
 
