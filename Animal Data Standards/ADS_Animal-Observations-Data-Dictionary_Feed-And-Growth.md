@@ -22,7 +22,7 @@ Maximum Weight | Float | Weight in kg (for a group).
 Mean Weight | Float | Weight in kg (for a group).
 Minimum Weight | Float | Weight in kg (for a group).
 Standard Deviation | Float | in kg (for a group).
-Time off feed | [ISO](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) 8601 | period (hours/minutes).
+Time off feed | [ISO](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) 8601 | period (hours/minutes).
 
 #### Weaning
 
@@ -30,7 +30,7 @@ The act of removing young animals from being able to access milk. This causes a 
 
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
-Pre-weaning Group | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) String | Group identifier.
+Pre-weaning Group | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) String | Group identifier.
 	
 #### Progeny Weaned
 
@@ -38,7 +38,7 @@ Removing progeny from the dams causes a change in demand and feeding regime for 
 
 Attribute | Data Type | Notes 
 :-------- | :-------- | :----
-Pre-weaning Group | [URN](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) String | Group identified.
+Pre-weaning Group | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) String | Group identified.
 Number Weaned | Integer | Count of progeny weaned.
 
 #### Feed Regime Change
@@ -86,7 +86,7 @@ Measurement Units | Enumeration | mm, cm, m.
 
 ##### Feed Types
 
-Feed categories are used to group the Feed Types as used in the Feed Regime Change observation in the Feed and Growth category. This list aligns to the Feed Type list in [Feed Types](docs/PGFDS_Lists-of-Valid-Values.md#Feed-Types) section of the Pasture, Grazing, & Feed Data Standard.
+Feed categories are used to group the Feed Types as used in the Feed Regime Change observation in the Feed and Growth category. This list aligns to the Feed Type list in [Feed Types](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/PGFDS_Lists-of-Valid-Values.md#Feed-Types) section of the Pasture, Grazing, & Feed Data Standard.
 
 Valid values for Feed Type are:
 
