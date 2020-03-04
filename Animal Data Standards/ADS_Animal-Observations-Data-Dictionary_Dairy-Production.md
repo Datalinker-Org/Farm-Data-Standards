@@ -88,6 +88,7 @@ sick |
 Abnormal Test Code is used in the Herd test observation in the Dairy Production category.
 
 Valid values for Abnormal Test Code:
+
 Code | Description
 :--- | :----------
 1 | Insufficient sample
