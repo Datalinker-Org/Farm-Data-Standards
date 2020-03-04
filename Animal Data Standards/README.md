@@ -43,9 +43,9 @@ Related standards include:
 
 * [Financial Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Financial%20Data%20Standard/README.md)
 
-* [Pasture, Grazing, and Feed Data Standard](docs/PGFDS_Portal.md)
+* [Pasture, Grazing, and Feed Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/README.md)
 
-* [Farm & Model Data Standard](docs/FMDS_Portal.md)
+* [Farm Model Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Model/README.md)
 
 #### Acknowledgements  
 
