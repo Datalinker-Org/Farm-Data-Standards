@@ -6,11 +6,11 @@ Contents:
 * [Fence and Gate Attributes](#Fence-and-Gate-Attributes)
 * [Emergency Location Attributes](#Emergency-Location-Attributes)
 
-This section provides more detail on spatial features in the [Feature Catalogue](docs/FFADS_Feature-Catalogue.md) that do not have a reference document, but are still considered as important features for spatial data on NZ farms. Note that each feature will have geographic coordinates and shape attributes and a Feature Identifier and/or Feature Name as described in [Spatial Attributes](docs/FFADS_Location-Identification_&_Spatial-Attributes.md#Spatial-Attributes).
+This section provides more detail on spatial features in the [Feature Catalogue](FFADS_Feature-Catalogue.md) that do not have a reference document, but are still considered as important features for spatial data on NZ farms. Note that each feature will have geographic coordinates and shape attributes and a Feature Identifier and/or Feature Name as described in [Spatial Attributes](FFADS_Location-Identification_&_Spatial-Attributes.md#Spatial-Attributes).
 
 #### Plot Special Case Attributes
 
-A Plot consists of geographical features with detailed information about the management activities performed on them, such as irrigation and drainage. The spatial blocks that a farmer uses to manage land may be different to those defined by land titles, soil, or climate zones. In New Zealand we use the term “Management Blocks” to define blocks that are managed differently, which is the equivalent of a Site in the INSPIRE framework.  Typically these differ in irrigation or effluent application, fertilisers applied, and types and numbers of stock grazed. A Site can be separated into plots, and then further into paddocks or fields, which define sub-sections of a Site/Management Block. Refer additional attributes relating to pastoral blocks and support blocks contained in the [Management Blocks](docs/FMDS_Farm-Data-Entities_Management-Blocks.md) section of the Farm Model Data Standard.
+A Plot consists of geographical features with detailed information about the management activities performed on them, such as irrigation and drainage. The spatial blocks that a farmer uses to manage land may be different to those defined by land titles, soil, or climate zones. In New Zealand we use the term “Management Blocks” to define blocks that are managed differently, which is the equivalent of a Site in the INSPIRE framework.  Typically these differ in irrigation or effluent application, fertilisers applied, and types and numbers of stock grazed. A Site can be separated into plots, and then further into paddocks or fields, which define sub-sections of a Site/Management Block. Refer additional attributes relating to pastoral blocks and support blocks contained in the [Management Blocks](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Model/FMDS_Farm-Data-Entities_Management-Blocks.md) section of the Farm Model Data Standard.
 
 A Paddock describes the special case of a plot that is used specifically for grazing livestock. It is an individual area delineated by a boundary. The paddock attributes listed here have been defined specifically to reflect NZ pastoral farming and may be used in addition to the attributes of a Plot or Site. 
 
@@ -22,17 +22,17 @@ Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Plot Type |	Enumeration | Field, Paddock
 Plot Name | String | the name used to refer to the field or paddock within the farm.
-Plot Activity Value | Enumeration | the type of vegetation grown here: e.g. permanent grassland.  For INSPIRE code list, see [Plot Activity Value Enumeration List](docs/FFA_Enumeration-Lists.md#Plot-Activity-Value-Enumeration-List).
+Plot Activity Value | Enumeration | the type of vegetation grown here: e.g. permanent grassland.  For INSPIRE code list, see [Plot Activity Value Enumeration List](FFA_Enumeration-Lists.md#Plot-Activity-Value-Enumeration-List).
 Secondary Plot Activity Value | String | Description of any secondary values relevant to the plot, i.e. fodder beet section on grazing plot.
-Pasture Type | Enumeration | Ryegrass/white clover, Browntop, Unimproved/tussock grasslands, SummerC4 (paspalum) pastures, C4 (kikuyu) pastures, Lucerne, Grass only (enumeration defined by Overseer[^OVERSEER])
+Pasture Type | Enumeration | Ryegrass/white clover, Browntop, Unimproved/tussock grasslands, SummerC4 (paspalum) pastures, C4 (kikuyu) pastures, Lucerne, Grass only (enumeration defined by Overseer<sup id="OVERSEER">[1](#f1)</sup>)
 Pasture utilisation | Integer | %
 Average pasture N Concentration | Integer | %
-Total area | Float | Total plot area expressed in m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used[^INSPIRE/AU].
-Effective Area | Float | Effective area of the plot taking into account slope. Valid units for expressing area are m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used[^INSPIRE/AU].
+Total area | Float | Total plot area expressed in m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used<sup id="INSPIRE">[2](#f2)</sup>.
+Effective Area | Float | Effective area of the plot taking into account slope. Valid units for expressing area are m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used<sup id="INSPIRE1">[2](#f2)</sup>..
 Cultivable Area | Float | Effective area of the plot for cultivation (cropping) purposes. Valid units for expressing area are m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used.8
-Grazeable Area | Float | The area of the plot that may be grazed by livestock, in m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used[^INSPIRE/AU]. 
+Grazeable Area | Float | The area of the plot that may be grazed by livestock, in m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used<sup id="INSPIRE2">[2](#f2)</sup>.. 
 Ownership | Enumeration | Owned, Leased
-Topography | Enumeration | Flat, Rolling, Easy hill, Steep hill (this enumeration is defined by OVERSEER[^OVERSEER])
+Topography | Enumeration | Flat, Rolling, Easy hill, Steep hill (this enumeration is defined by OVERSEER<sup id="OVERSEER1">[1](#f1)</sup>)
 Date Start | ISO 8601 Date | Date started operating for specific paddock type.
 Date End | ISO 8601 Date | Date ended(ceased) operating for specific paddock type.
 
@@ -82,6 +82,6 @@ Emergency Location | Emergency Location Type | Enumeration | First Aid Point, Ev
 
 #### Footnotes
 
-[^OVERSEER]: OVERSEER is a trademark and a computer software model: See [www.overseer.org.nz](www.overseer.org.nz) for more information. Parameters should be collected in line with the [OVERSEER Best Practice Data Input Standards](https://www.waikatoregion.govt.nz/assets/WRC/Council/Policy-and-Plans/HR/ReadProposedPlan/Overseer.pdf).
+<b id="f1">1</b> OVERSEER is a trademark and a computer software model: See [www.overseer.org.nz](www.overseer.org.nz) for more information. Parameters should be collected in line with the [OVERSEER Best Practice Data Input Standards](https://www.waikatoregion.govt.nz/assets/WRC/Council/Policy-and-Plans/HR/ReadProposedPlan/Overseer.pdf). [↩](#OVERSEER) [↩](#OVERSEER1)
 
-[^INSPIRE/AU]: See section 6.1.3 of [INSPIRE Data Specification on Administrative Units – Technical Guidelines](https://inspire.ec.europa.eu/id/document/tg/au)
+<b id="f1">1</b> See section 6.1.3 of INSPIRE Data Specification on Administrative Units – [Technical Guidelines](https://inspire.ec.europa.eu/id/document/tg/au) [↩](#INSPIRE) [↩](#INSPIRE1) [↩](#INSPIRE2)
