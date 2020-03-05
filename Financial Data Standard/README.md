@@ -12,36 +12,36 @@ This standard addresses the following areas of data interchange:
 
 * Representing key performance indicators typically used in benchmarking or comparison of farm systems, or in concert with financial reporting of a farming enterprise.
 
-The data dictionaries defined in this standard are intended to support standardised interchange of financial data for benchmarking, tools, and analysis, and are not intended as a mechanism for E-Commerce (other standards such as [EDIFACT](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations), [UBL](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) and [EANCOM/GS1 XML](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) support this).
+The data dictionaries defined in this standard are intended to support standardised interchange of financial data for benchmarking, tools, and analysis, and are not intended as a mechanism for E-Commerce (other standards such as [EDIFACT](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations), [UBL](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) and [EANCOM/GS1 XML](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) support this).
 
 ### Topics
 
-* [Data Dictionary](docs/FDS_Data-Dictionary.md)
-  * [Actual Transactions](docs/FDS_Data-Dictionary.md#Actual-Transactions)
-  * [Aggregated and Budget Transactions](docs/FDS_Data-Dictionary.md#Aggregated-and-Budget-Transactions)
-  * [Balance Sheet Items](docs/FDS_Data-Dictionary.md#Balance-Sheet-Items)
-  * [Key Performance Indicators](docs/FDS_Data-Dictionary.md#Key-Performance-Indicators)
+* [Data Dictionary](FDS_Data-Dictionary.md)
+  * [Actual Transactions](FDS_Data-Dictionary.md#Actual-Transactions)
+  * [Aggregated and Budget Transactions](FDS_Data-Dictionary.md#Aggregated-and-Budget-Transactions)
+  * [Balance Sheet Items](FDS_Data-Dictionary.md#Balance-Sheet-Items)
+  * [Key Performance Indicators](FDS_Data-Dictionary.md#Key-Performance-Indicators)
 * Lists of Enumerated Values
-  * [Industry Standard Account Codes](docs/FDS_Industry-Standard-Account-Codes.md)
-    * [Statement of Profit and Loss](docs/FDS_Industry-Standard-Account-Codes.md#Statement-of-Profit-and-Loss)
-    * [Balance Sheet](docs/FDS_Industry-Standard-Account-Codes.md#Balance-Sheet)
-    * [Source Accounts](docs/FDS_Industry-Standard-Account-Codes.md#Source-Accounts)
-  * [Tax Types (Normative)](docs/FDS_Lists-of-Enumerated-Values.md#Tax-Types-(Normative))
-  * [Pricing or Valuation Basis (Normative)](docs/FDS_Lists-of-Enumerated-Values.md#Pricing-or-Valuation-Basis-(Normative))
-  * [Common Units (Normative)](docs/FDS_Lists-of-Enumerated-Values.md#Common-Units-([Normative]))
+  * [Industry Standard Account Codes](FDS_Industry-Standard-Account-Codes.md)
+    * [Statement of Profit and Loss](FDS_Industry-Standard-Account-Codes.md#Statement-of-Profit-and-Loss)
+    * [Balance Sheet](FDS_Industry-Standard-Account-Codes.md#Balance-Sheet)
+    * [Source Accounts](FDS_Industry-Standard-Account-Codes.md#Source-Accounts)
+  * [Tax Types](FDS_Lists-of-Enumerated-Values.md#Tax-Types)
+  * [Pricing or Valuation Basis](FDS_Lists-of-Enumerated-Values.md#Pricing-or-Valuation-Basis)
+  * [Common Units](FDS_Lists-of-Enumerated-Values.md#Common-Units)
 * Key Performance Indicator Lists
-  * [Key Performance Indicators (Informative)](docs/FDS_Key-Performance-Indicator-Lists.md#Key-Performance-Indicators-(Informative))
-  * [Common Denominators (Informative)](docs/FDS_Key-Performance-Indicator-Lists.md#Common-Denominators-(Informative))
+  * [Key Performance Indicators](FDS_Key-Performance-Indicator-Lists.md#Key-Performance-Indicators)
+  * [Common Denominators](docs/FDS_Key-Performance-Indicator-Lists.md#Common-Denominators)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/FDS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](FDS_Wiki-Management.md) page.
 
 #### Related Documents
 
 Related standards documents to be published in 2014 on the Farm Data Standards website include:
-* [Stock Reconciliation Data Standard](docs/SRDS_Portal.md)
-* [Animal Data Standard](docs/ADS_Portal.md)
-* [Land Application Data Standard](docs/LADS_Portal.md)
-* [Irrigation & Effluent Data Standard](docs/IEDS_Portal.md)
+* [Stock Reconciliation Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Stock%20Reconciliation/README.md)
+* [Animal Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/README.md)
+* [Land Application Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Land%20Application%20Standard/README.md)
+* [Irrigation & Effluent Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Irrigation%20and%20Effluent/README.md)
 
 #### Acknowledgements
 
