@@ -61,4 +61,4 @@ Emergency Locations | Spatial objects representing an emergency location eg | Ev
 
 The diagram below illustrates the hierarchy of each spatial feature as defined by NZ Farm Data Standards, beginning with the Holding as the broad definition of the total farm area. Each vertical level represents a sub-layer of the preceding feature.
  
-![FeatureHeirarchy](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/FFADS_FeatureHeirarchy.png "Farm Features And Attributes Data Standards Feature Heirarchy")
+![FeatureHeirarchy](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Features%20and%20Attributes/FFADS_FeatureHeirarchy.png "Farm Features And Attributes Data Standards Feature Heirarchy")
