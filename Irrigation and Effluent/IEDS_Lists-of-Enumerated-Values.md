@@ -2,16 +2,16 @@
 ### Lists of Enumerated Values
 
 Contents:
-* [Geometry Type](#Geometry-Type).
-* [Irrigation system type](#Irrigation-system-type).
-* [Equipment Type](#Equipment-Type).
-* [Irrigation Equipment Alert Type](#Irrigation-Equipment-Alert-Type).
-* [Water Source](#Water-Source).
-* [Source of Effluent](#Source-of-Effluent).
-* [Soil Moisture Test Method](#Soil-Moisture-Test-Method).
-* [Soil Texture](#Soil-Texture).
-* [Device Type](#Device-Type).
-* [Weather Metric](#Weather-Metric).
+* [Geometry Type](#Geometry-Type)
+* [Irrigation system type](#Irrigation-system-type)
+* [Equipment Type](#Equipment-Type)
+* [Irrigation Equipment Alert Type](#Irrigation-Equipment-Alert-Type)
+* [Water Source](#Water-Source)
+* [Source of Effluent](#Source-of-Effluent)
+* [Soil Moisture Test Method](#Soil-Moisture-Test-Method)
+* [Soil Texture](#Soil-Texture)
+* [Device Type](#Device-Type)
+* [Weather Metric](#Weather-Metric)
 
 #### Geometry Type
 
@@ -83,7 +83,7 @@ no signal |
 
 #### Water Source
 
-Water Source is used in the Water Supply observation. See the Farm Features and Attributes Data Standard [feature catalog](docs/FFADS_Feature-Catalogue.md) for definitions of Watercourses and Waterways.
+Water Source is used in the Water Supply observation. See the Farm Features and Attributes Data Standard [feature catalog](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Features%20and%20Attributes/FFADS_Feature-Catalogue.md) for definitions of Watercourses and Waterways.
 
 Valid values for Water Source are:|
 :-------------------------------- |
@@ -192,7 +192,7 @@ Wind speed | Float | Km/hour, m/s
 Wind gust | Float | Km/hour, m/s
 Wet days | Integer | Days
 Relative humidity | Float | %
-Barometric pressure | Float | [KPa](docs/IEDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations), bar, [psi](docs/IEDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Barometric pressure | Float | [KPa](IEDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations), bar, [psi](IEDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
 Potential evapotranspiration | Float | mm/day
 Solar radiation | Float	| MJ/m2/day
 Frost occurrence | Boolean | 
