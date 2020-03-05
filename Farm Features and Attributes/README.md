@@ -18,34 +18,34 @@ The standard addresses:
 
 ### Topics
 
-* [Location Identification](docs/FFA_Location-Identification_&_Spatial-Attributes.md#Location-Identification)
-* [Spatial Attributes](docs/FFA_Location-Identification_&_Spatial-Attributes.md#Spatial-Attributes)
-* [Feature Catalog](docs/FFA_Feature-Catalogue.md)
-  * [Farm Features](docs/FFA_Feature-Catalogue.md#Farm-Features)
-  * [Feature Hierarchy](docs/FFA_Feature-Catalogue.md#Feature-Hierarchy)
-* [Feature Attributes Data Dictionary](docs/FFA_Feature-Attributes-Data-Dictionary.md)
-  * [Plot Special Case](docs/FFA_Feature-Attributes-Data-Dictionary.md#Plot-Special-Case-Attributes)
-  * [Riparian Zone](docs/FFA_Feature-Attributes-Data-Dictionary.md#Riparian-Zone-Attributes)
-  * [Fence and Gate](docs/FFA_Feature-Attributes-Data-Dictionary.md#Fence-and-Gate-Attributes)
-  * [Emergency Location](docs/FFA_Feature-Attributes-Data-Dictionary.md#Emergency-Location-Attributes)
-* [Enumeration Lists](docs/FFA_Enumeration-Lists.md)
-  * [Type of AgriBuilding](docs/FFA_Enumeration-Lists.md#Type-of-AgriBuilding-Value-Enumeration-List)
-  * [Plot Activity](docs/FFA_Enumeration-Lists.md#Plot-Activity-Value-Enumeration-List)
+* [Location Identification](FFA_Location-Identification_&_Spatial-Attributes.md#Location-Identification)
+* [Spatial Attributes](FFA_Location-Identification_&_Spatial-Attributes.md#Spatial-Attributes)
+* [Feature Catalog](FFA_Feature-Catalogue.md)
+  * [Farm Features](FFA_Feature-Catalogue.md#Farm-Features)
+  * [Feature Hierarchy](FFA_Feature-Catalogue.md#Feature-Hierarchy)
+* [Feature Attributes Data Dictionary](FFA_Feature-Attributes-Data-Dictionary.md)
+  * [Plot Special Case](FFA_Feature-Attributes-Data-Dictionary.md#Plot-Special-Case-Attributes)
+  * [Riparian Zone](FFA_Feature-Attributes-Data-Dictionary.md#Riparian-Zone-Attributes)
+  * [Fence and Gate](FFA_Feature-Attributes-Data-Dictionary.md#Fence-and-Gate-Attributes)
+  * [Emergency Location](FFA_Feature-Attributes-Data-Dictionary.md#Emergency-Location-Attributes)
+* [Enumeration Lists](FFA_Enumeration-Lists.md)
+  * [Type of AgriBuilding](FFA_Enumeration-Lists.md#Type-of-AgriBuilding-Value-Enumeration-List)
+  * [Plot Activity](FFA_Enumeration-Lists.md#Plot-Activity-Value-Enumeration-List)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/FFADS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](FFADS_Wiki-Management.md) page.
 
 
 #### Related Documents
 
 Related standards documents on the Farm Data Standards website include:
 
-* Farm and Model Data Standard
+* [Farm and Model Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Model/README.md)
 
-* Pasture Feed and Grazing Data Standard
+* [Pasture Feed and Grazing Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/README.md)
 
-* Irrigation and Effluent Data Standard 
+* [Irrigation and Effluent Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Irrigation%20and%20Effluent/README.md)
 
-* Land Application Data Standard 
+* [Land Application Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Land%20Application%20Standard/README.md)
 
 Particular reference should be made to the Farm and Model Data Standard which also includes data types with a spatial attribute. These have been referenced accordingly within this document.
 
