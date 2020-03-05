@@ -32,7 +32,7 @@ Other |
 
 #### Plot Activity Value
 
-Pastoral, Cut and carry, Trees and shrub, riparian, wetland, and house, have been added to the list from the OVERSEER Best Practice Data Input Standards. See the Pasture, Grazing, & Feed Data Standard for enumerations of [crop classes](docs/PGFDS_Lists-of-Valid-Values.md#Crop-Class), [feed types](docs/PGFDS_Lists-of-Valid-Values.md#Feed-Type), [grazing systems](docs/PGFDS_Lists-of-Valid-Values.md#Grazing-System), and [pasture types](docs/PGFDS_Lists-of-Valid-Values.md#Pasture-Type).
+Pastoral, Cut and carry, Trees and shrub, riparian, wetland, and house, have been added to the list from the OVERSEER Best Practice Data Input Standards. See the Pasture, Grazing, & Feed Data Standard for enumerations of [crop classes](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/PGFDS_Lists-of-Valid-Values.md#Crop-Class), [feed types](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/PGFDS_Lists-of-Valid-Values.md#Feed-Type), [grazing systems](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/PGFDS_Lists-of-Valid-Values.md#Grazing-System), and [pasture types](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/PGFDS_Lists-of-Valid-Values.md#Pasture-Type).
 
 Plot Activity Value |
 :------------------ | 
