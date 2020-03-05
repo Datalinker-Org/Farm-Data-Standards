@@ -13,9 +13,9 @@ Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Runoff | Boolean | True if runoff block
 Block Total Area | Float | Block total area expressed in m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used.  
-Block Effective Area | Float | Effective area  of the farm taking into account slope. Valid units for expressing  area in m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used[^INSPIRE/AU].
-Block Grazeable Area | Float |  Area of the farm for grazing purposes. Valid units for expressing area are m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used[^INSPIRE/AU].  
-Block Cultivable Area | Float | Area of the farm for cultivation (cropping) purposes. Valid units for expressing area are m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used[^INSPIRE/AU].  
+Block Effective Area | Float | Effective area  of the farm taking into account slope. Valid units for expressing  area in m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used<sup id="INSPIRE">[1](#f1)</sup>.
+Block Grazeable Area | Float |  Area of the farm for grazing purposes. Valid units for expressing area are m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used<sup id="INSPIRE2">[1](#f1)</sup>.  
+Block Cultivable Area | Float | Area of the farm for cultivation (cropping) purposes. Valid units for expressing area are m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used<sup id="INSPIRE3">[1](#f1)</sup>.  
 Block ownership | Enumeration | Owned, Leased
 Topography | Enumeration | Flat, Rolling, Easy hill, Steep hill (this enumeration is defined by Overseer).
 Distance from coast | Integer | kilometres
@@ -38,11 +38,11 @@ Stock type on support block | Enumeration | Dairy Cows [Cows], Dairy Replacement
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Number of stock | Integer
-Date stock come | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
-Date stock leave | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Date stock come | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Date stock leave | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
 Area hay/silage harvested | Integer | Area expressed in m<sup>2</sup> (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m<sup>2</sup> should be used. 
 Destination hay/silage | Enumeration | Fed on support block, Milking area, Elsewhere (defined by Overseer).
 
 #### Footnotes
 
-[^INSPIRE/AU]: See section 6.1.3 of D2.8.I.2 Data Specification on Administrative Units – [Technical Guidelines](https://inspire.ec.europa.eu/id/document/tg/au)
+<b id="f1">1.</b> See section 6.1.3 of D2.8.I.2 Data Specification on Administrative Units – [Technical Guidelines](https://inspire.ec.europa.eu/id/document/tg/au). [↩](#INSPIRE) [↩](#INSPIRE2) [↩](#INSPIRE3)
