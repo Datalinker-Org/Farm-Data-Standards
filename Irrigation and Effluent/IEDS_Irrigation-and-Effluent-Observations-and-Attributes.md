@@ -23,7 +23,7 @@ This section of the standard is concerned with:
 
 The identifier for these data may consist of the farm identifier and optionally an additional string naming the equipment or the water supply respectively and/or a spatial representation identifying its location.  Examples of irrigation equipment include the irrigator, irrigation pump, transfer pump, vat, water tank, agitator.  Alerts on the equipment are also identified, by the type of the alert.
 
-Observations regarding continuous monitoring of Water Supply (for example, flow rates) SHALL be interchanged using the WaterML 2.0[^OCG] standard.
+Observations regarding continuous monitoring of Water Supply (for example, flow rates) SHALL be interchanged using the WaterML 2.0<sup id="OCG">[1](#f1)</sup> standard.
 
 For the data dictionaries refer to [Irrigation Equipment Attributes](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Attributes), [Irrigation Equipment Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Observations), [Irrigation Equipment Alert Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Alert-Observations), [Water Supply Attributes](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Water-Supply-Attributes) and [Water Supply Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Water-Supply-Observations).
 
