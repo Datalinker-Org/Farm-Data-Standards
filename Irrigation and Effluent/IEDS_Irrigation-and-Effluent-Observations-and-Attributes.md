@@ -25,7 +25,7 @@ The identifier for these data may consist of the farm identifier and optionally 
 
 Observations regarding continuous monitoring of Water Supply (for example, flow rates) SHALL be interchanged using the WaterML 2.0[^OCG] standard.
 
-For the data dictionaries refer to [Irrigation Equipment Attributes](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Attributes), [Irrigation Equipment Observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Observations), [Irrigation Equipment Alert Observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Alert-Observations), [Water Supply Attributes](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Water-Supply-Attributes) and [Water Supply Observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Water-Supply-Observations).
+For the data dictionaries refer to [Irrigation Equipment Attributes](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Attributes), [Irrigation Equipment Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Observations), [Irrigation Equipment Alert Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-Equipment-Alert-Observations), [Water Supply Attributes](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Water-Supply-Attributes) and [Water Supply Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Water-Supply-Observations).
 
 #### Production, collection, storage, and treatment of effluent
 
@@ -33,7 +33,7 @@ The production and collection of effluent data defines the source of the effluen
 
 The storage and treatment of the effluent includes the parameters of the storage pond, the level of nutrients involved and the treatment employed. 
 
-For the data dictionaries refer to [Effluent Production and Collection](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Production-and-Collection-Attributes), [Effluent Storage and Treatment Attributes](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Production-and-Collection-Observations), [Effluent Storage and Treatment Attributes](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Storage-and-Treatment-Attributes), [Effluent Storage and Treatment Observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Storage-and-Treatment-Observations) and [Effluent Nutrient Observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Nutrient-Observations).
+For the data dictionaries refer to [Effluent Production and Collection](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Production-and-Collection-Attributes), [Effluent Storage and Treatment Attributes](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Production-and-Collection-Observations), [Effluent Storage and Treatment Attributes](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Storage-and-Treatment-Attributes), [Effluent Storage and Treatment Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Storage-and-Treatment-Observations) and [Effluent Nutrient Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Effluent-Nutrient-Observations).
 
 #### Irrigation and effluent application
 
@@ -41,26 +41,26 @@ Observations of irrigation and effluent application will be for a period or for 
 
 The land areas affected may be identified by a farm identifier with optionally an additional string naming the block(s) or paddock(s) receiving the application.  Alternatively, a spatial representation may define the land areas.
 
-For the data dictionary refer to [Irrigation and Effluent Application Observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-and-Effluent-Application-Observations).
+For the data dictionary refer to [Irrigation and Effluent Application Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Irrigation-and-Effluent-Application-Observations).
 
 #### Soil attributes and observations
 
 Soil data fields in the standard are particularly concerned with characteristics affecting soil moisture.  These observations will be for a specific date.  Soil tests may be for a transect, block, paddock or geographic feature which may be identified by a farm identifier with optionally an additional string naming the area represented by the tests.  Alternatively, a spatial representation may define the area.
 
-The data fields in [Soil Moisture Attributes](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Soil-Moisture-Attributes) are considered a proxy for formal descriptions of the soil that will be able to be interchanged using the Australia-New Zealand Standard for Soils – SoilML.
+The data fields in [Soil Moisture Attributes](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Soil-Moisture-Attributes) are considered a proxy for formal descriptions of the soil that will be able to be interchanged using the Australia-New Zealand Standard for Soils – SoilML.
 
-For the data dictionaries refer to [Soil Moisture Attributes](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Soil-Moisture-Attributes), [Soil Moisture Observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Soil-Moisture-Observations) and [Soil Nutrient Observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Soil-Nutrient-Observations).
+For the data dictionaries refer to [Soil Moisture Attributes](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Soil-Moisture-Attributes), [Soil Moisture Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Soil-Moisture-Observations) and [Soil Nutrient Observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Soil-Nutrient-Observations).
 
 #### Use of water by plants
 
-This section of the standard concerns plants use of water.  The subject of these observations may be a transect, block, paddock or geographic feature which may be identified by a farm identifier with optionally an additional string naming the area represented by the tests.  Alternatively, a spatial representation may define the area.  For the data dictionary refer to [Plants Use of Water](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Plants-Use-of-Water).
+This section of the standard concerns plants use of water.  The subject of these observations may be a transect, block, paddock or geographic feature which may be identified by a farm identifier with optionally an additional string naming the area represented by the tests.  Alternatively, a spatial representation may define the area.  For the data dictionary refer to [Plants Use of Water](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Plants-Use-of-Water).
 
 #### Climatic and Weather Observations
 
 This section of the standard is for weather and climatic observations relevant to irrigation and the spreading of effluent.  Climatic observations are defined for a period and are expressed in a generalised form to provide for different quantitative summary measures (total, mean, median, minimum, maximum).  Weather observations are for the current day defined by the observation date.  The subject of these observations the identified location.
 
-For the data dictionary refer to [Climatic and Weather observations](docs/IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Climatic-and-Weather-Observations).
+For the data dictionary refer to [Climatic and Weather observations](IEDS_Irrigation-and-Effluent-Data-Dictionary.md#Climatic-and-Weather-Observations).
 
 #### Footnotes
 
-[^OCG]:  [OGC® WaterML](http://www.opengeospatial.org/standards/waterml)
+<b id="f1">1.</b> [OGC® WaterML](http://www.opengeospatial.org/standards/waterml). [↩](#OCG)
