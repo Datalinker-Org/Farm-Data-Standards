@@ -56,7 +56,7 @@ Contour Line | Linear spatial object composed of a set of adjoining locations ch
 Spot Elevation | Class of spot elevation according to the LAS specification of the American Society for Photogrammetry and Remote Sensing (ASPRS). | Spot Height | D2.8.II.1 INSPIRE Data Specification on Elevation – [Technical Guidelines](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_EL_v3.0.pdf) 
 Hazard Area | Discrete spatial objects representing a natural hazard namely geological, hydro-meteorological or biological. For additional attributes, refer to the Health and Safety Data Standard. | Hazard, Bluff | D2.8.III.12 INSPIRE Data Specification on Natural Risk Zones – [Technical Guidelines](http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_NZ_v3.0.pdf)
 Emergency Locations | Spatial objects representing an emergency location eg | Evacuation point | [Emergency Location Attributes](docs/FFA_Feature-Attributes-Data-Dictionary.md#Emergency-Location-Attributes)
- 
+
 #### Feature Hierarchy
 
 The diagram below illustrates the hierarchy of each spatial feature as defined by NZ Farm Data Standards, beginning with the Holding as the broad definition of the total farm area. Each vertical level represents a sub-layer of the preceding feature.
