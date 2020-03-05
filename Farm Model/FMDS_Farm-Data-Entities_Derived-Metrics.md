@@ -1,14 +1,14 @@
 ### Derived Metrics
 
 Contents:
-* [Dairy Reproduction](#Dairy-Reproduction).
-* [Sheep, Beef, or Deer Reproduction](#Sheep,-Beef,-or-Deer-Reproduction).
-* [Dairy Mortality and Replacements](#Dairy-Mortality-and-Replacements).
-* [Sheep, Beef, or Deer Mortality and Replacements](#Sheep,-Beef,-or-Deer-Mortality-and-Replacements).
-* [Dairy Mastitis and Lameness](#Dairy-Mastitis-and-Lameness).
-* [Milk Production](#Milk-Production).
-* [Carcass Production](#Carcass-Production).
-* [Wool and Velvet Production](#Wool-and-Velvet-Production).
+* [Dairy Reproduction](#Dairy-Reproduction)
+* [Sheep, Beef, or Deer Reproduction](#Sheep,-Beef,-or-Deer-Reproduction)
+* [Dairy Mortality and Replacements](#Dairy-Mortality-and-Replacements)
+* [Sheep, Beef, or Deer Mortality and Replacements](#Sheep,-Beef,-or-Deer-Mortality-and-Replacements)
+* [Dairy Mastitis and Lameness](#Dairy-Mastitis-and-Lameness)
+* [Milk Production](#Milk-Production)
+* [Carcass Production](#Carcass-Production)
+* [Wool and Velvet Production](#Wool-and-Velvet-Production)
 
 Models and benchmarking applications frequently utilise enterprise or farm “attributes” that are in fact summarised or derived from actual observations of animals, mobs, or management actions. These vary by enterprise, so the table below is broken into sections by enterprise type and the sort of summary information concerned (for instance, reproduction, milk or meat production).
 
@@ -16,14 +16,14 @@ Models and benchmarking applications frequently utilise enterprise or farm “at
 
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
-Start calving | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | 
+Start calving | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | 
 Number of cows calved | Integer
-Date 50% calved	| [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | date when 50% of cows calved.
+Date 50% calved	| [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | date when 50% of cows calved.
 Number calves reared | Integer
-Planned start of calving | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
-Planned start of mating | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
-Date AB finished | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
-Date bull withdrawn	| [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Planned start of calving | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Planned start of mating | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Date AB finished | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Date bull withdrawn	| [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
 Cows confirmed empty | Integer
 Number cows calved at 21 days | Integer | Number cows calved 3 weeks from planned start of calving.
 Number cows calved at 42 days | Integer | Number cows calved 6 weeks from planned start of calving.
@@ -37,10 +37,10 @@ Number cows treated for anoestrus | Integer
 
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
-Planned start of birthing | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | Planned start of lambing or calving.
-Start of birthing | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | Actual start of lambing or calving.
-Mean Birthing Date | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | Mean lambing or calving date.
-Mean Weaning Date | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | 
+Planned start of birthing | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | Planned start of lambing or calving.
+Start of birthing | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | Actual start of lambing or calving.
+Mean Birthing Date | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | Mean lambing or calving date.
+Mean Weaning Date | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | 
 Weaning weight | Float | Weight in kilograms.
 Condition Score at Mating | Float | Average Condition Score (see Condition Score in the Animal Data Standard ).
 Liveweight at Mating | Float | Average Liveweight
@@ -91,7 +91,7 @@ Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Once-a-day milking | Enumeration | Never, Only at drying-off, Half of season, All season.
 Winter milk | Boolean | Yes, No
-Drying-off date | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Drying-off date | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
 Days in milk per cow | Integer | Average days in milk for herd
 Total milk solids | Integer | kg MS
 Fat | Integer | Total fat, kg
@@ -109,7 +109,7 @@ Daily milk solids end Dec | Integer | Average daily milk solids per cow for last
 
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
-Mean slaughter date | [ISO Date](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
+Mean slaughter date | [ISO Date](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)
 Mean slaughter age | Integer | days
 Mean live weight at sale | Float | kg
 Mean carcass weight	| Float | kg
