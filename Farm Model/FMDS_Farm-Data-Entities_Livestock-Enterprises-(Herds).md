@@ -9,16 +9,16 @@ Contents:
 The following table defines items in entities that apply to livestock **enterprises**. Enterprises may be further defined by a **Stock Reconciliation** for the entire period being evaluated, or a monthly stock reconciliation for each month of the period being evaluated.
 
 #### Enterprise Identification and Attributes
-(All enterprises[^SCE])
+([All enterprises](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Stock%20Reconciliation/README.md))
 
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Herd Name | String | Name of the enterprise within the farm.
-Identifier(s) | [URN]((docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)) | One or more herd or flock identifiers using URN notation. See [Herd and Flock Identification](docs/FMDS_Identification-of-Locations-and-Herds.md#Herd-and-Flock-Identification).
+Identifier(s) | [URN](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) | One or more herd or flock identifiers using URN notation. See [Herd and Flock Identification](FMDS_Identification-of-Locations-and-Herds.md#Herd-and-Flock-Identification).
 Species Binomial Name | String | Combines Genus and Species; “Bos taurus” - cattle, “Ovis aries” - sheep, “Cervus elaphus” - red deer, “Cervus Canadensis” - elk wapiti, “Capra aegagrus” - goats.
 Species Simple Name | Enumeration | Describes the species in common terms; Cattle, Deer, Goats, Sheep.
 Use	| Enumeration | Describes the purpose of the enterprise the animals belong to: Dairy, Stud, Grazing, Breeding, Finishing, Meat, Fibre, Velvet.
-Breed Assessed | String | There is no internationally recognised master list of livestock breeds. [ICAR](docs/FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) mandates a list of codes for bovine semen straws[^ICAR], and Oklahoma State University publishes a useful list of livestock breeds[^OKStateBreeds]. The UN Food and Agriculture Organisation (FAO) maintains a database of all domestic livestock breeds[^FAO]. A list of breeds suitable for use with New Zealand farmed livestock will be maintained at [www.farmdatastandards.org.nz](http://www.farmdatastandards.org.nz/).
+Breed Assessed | String | There is no internationally recognised master list of livestock breeds. [ICAR](FMDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) mandates a list of codes for bovine semen straws<sup id="Bovine">[1](#f1)</sup>, and Oklahoma State University publishes a useful list of livestock breeds<sup id="OKSB">[2](#f2)</sup>. The UN Food and Agriculture Organisation (FAO) maintains a database of all domestic livestock breeds<sup id="FAODAD">[3](#f3)</sup>. A list of breeds suitable for use with New Zealand farmed livestock will be maintained at [here](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Animal-Breed-List.md).
 
 #### Organisation Supply Details
 
@@ -52,10 +52,8 @@ Average Mature Weight | Float | Weight of mature breeding stock (cows, hinds, ew
 
 #### Footnotes
 
-[^SCE]: See the definition of an Enterprise in the [Stock Reconciliation Data Standard](docs/SCDS_Portal.md).
+<b id="f1">1.</b> [ICAR Guidelines 2012](https://interbull.org/ib/icarbreedcodes), Section 8 Annex 1, pp 479-481, Breed Codes on Bovine Semen Straws for International Trade assigned by ICAR Sub-committee Interbull, International Committee for Animal Recording. [↩](#Bovine)
 
-[^ICAR]: [ICAR Guidelines 2012](https://interbull.org/ib/icarbreedcodes), Section 8 Annex 1, pp 479-481, Breed Codes on Bovine Semen Straws for International Trade assigned by ICAR Sub-committee Interbull, International Committee for Animal Recording.  
-  
-[^OKStateBreeds]: [Oklahoma State University Livestock Breeds](http://afs.okstate.edu/breeds/) .
+<b id="f2">2.</b> [Oklahoma State University Livestock Breeds](http://www.ansi.okstate.edu/breeds/). [↩](#OKSB) 
 
-[^FAO]: [FAO Domestic Animal Diversity Information System](http://www.fao.org/dad-is/data/en/).
+<b id="f3">3.</b> [FAO Domestic Animal Diversity Information System](http://www.fao.org/dad-is/data/en/). [↩](#FAODAD) 
