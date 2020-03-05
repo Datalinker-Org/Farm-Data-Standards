@@ -6,7 +6,7 @@ Contents:
 * [Description and usage of feed pads, stand-offs, and housing](#Description-and-usage-of-feed-pads,-stand-offs,-and-housing)
 * [Details of Effluent System](#Details-of-Effluent-System)
 
-The following tables define attributes applying to common farm structures, and for which there is an existing data interchange purpose (E.g. DairyBase benchmarking or Overseer models).  See the Farm Features and Attributes Data Standard for a [list of attributes relating to AgriBuildings](docs/FFADS_Enumeration-Lists.md). 
+The following tables define attributes applying to common farm structures, and for which there is an existing data interchange purpose (E.g. DairyBase benchmarking or Overseer models). See the Farm Features and Attributes Data Standard for a [list of attributes relating to AgriBuildings](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Features%20and%20Attributes/FFADS_Enumeration-Lists.md). 
 
 #### Identification of each structure
 
