@@ -19,39 +19,39 @@ This standard addresses data relating to the Farm entity, including farm descrip
 
 ### Topics
 
-* [Identification of Locations and Herds](docs/FMDS_Identification-of-Locations-and-Herds.md).
-  * [Location Identification](docs/FMDS_Identification-of-Locations-and-Herds.md#Location-Identification).
-  * [Spatial Attributes](docs/FMDS_Identification-of-Locations-and-Herds.md#Spatial-Attributes).
-  * [Herd and Flock Identification](docs/FMDS_Identification-of-Locations-and-Herds.md#Herd-and-Flock-Identification).
-  * [Registration of Namespaces](docs/FMDS_Identification-of-Locations-and-Herds.md#).
-* [Periods and Dates in Data Interchange](docs/FMDS_Periods-and-Dates-in-Data-Interchange.md).
-* [Farm Data Entities](docs/FMDS_Farm-Data-Entities.md).
-  * [Farm Entity](docs/FMDS_Farm-Data-Entities_Farm-Entity.md).
-  * [Person and Organisations](docs/FMDS_Farm-Data-Entities_Person-and-Organisations.md).
-  * [Livestock Enterprises (Herds)](docs/FMDS_Farm-Data-Entities_Livestock-Enterprises-(Herds).md).
-  * [Derived Metrics](docs/FMDS_Farm-Data-Entities_Derived-Metrics.md).
-  * [Management Blocks](docs/FMDS_Farm-Data-Entities_Management-Blocks.md).
-  * [Feed & Grazing](docs/FMDS_Farm-Data-Entities_Feed-&-Grazing.md).
-  * [Irrigation Practices and Systems](docs/FMDS_Farm-Data-Entities_Irrigation-Practices-and-Systems.md).
-  * [Farm Structures](docs/FMDS_Farm-Data-Entities_Farm-Structures.md).
-  * [Inventory items for feeds and crops](docs/FMDS_Farm-Data-Entities.md#Inventory-items-for-feeds-and-crops).
-  * [Climate Zones](docs/FMDS_Farm-Data-Entities.md#Climate-Zones).
-  * [Soil Body](docs/FMDS_Farm-Data-Entities_Soil-Body.md).
-  * [Fertiliser Applications](docs/FMDS_Farm-Data-Entities.md#Fertiliser-Applications).
+* [Identification of Locations and Herds](FMDS_Identification-of-Locations-and-Herds.md).
+  * [Location Identification](FMDS_Identification-of-Locations-and-Herds.md#Location-Identification).
+  * [Spatial Attributes](FMDS_Identification-of-Locations-and-Herds.md#Spatial-Attributes).
+  * [Herd and Flock Identification](FMDS_Identification-of-Locations-and-Herds.md#Herd-and-Flock-Identification).
+  * [Registration of Namespaces](FMDS_Identification-of-Locations-and-Herds.md#).
+* [Periods and Dates in Data Interchange](FMDS_Periods-and-Dates-in-Data-Interchange.md).
+* [Farm Data Entities](FMDS_Farm-Data-Entities.md).
+  * [Farm Entity](FMDS_Farm-Data-Entities_Farm-Entity.md).
+  * [Person and Organisations](FMDS_Farm-Data-Entities_Person-and-Organisations.md).
+  * [Livestock Enterprises (Herds)](FMDS_Farm-Data-Entities_Livestock-Enterprises-(Herds).md).
+  * [Derived Metrics](FMDS_Farm-Data-Entities_Derived-Metrics.md).
+  * [Management Blocks](FMDS_Farm-Data-Entities_Management-Blocks.md).
+  * [Feed & Grazing](FMDS_Farm-Data-Entities_Feed-&-Grazing.md).
+  * [Irrigation Practices and Systems](FMDS_Farm-Data-Entities_Irrigation-Practices-and-Systems.md).
+  * [Farm Structures](FMDS_Farm-Data-Entities_Farm-Structures.md).
+  * [Inventory items for feeds and crops](FMDS_Farm-Data-Entities.md#Inventory-items-for-feeds-and-crops).
+  * [Climate Zones](FMDS_Farm-Data-Entities.md#Climate-Zones).
+  * [Soil Body](FMDS_Farm-Data-Entities_Soil-Body.md).
+  * [Fertiliser Applications](FMDS_Farm-Data-Entities.md#Fertiliser-Applications).
 
 #### Related Documents
 
 Related standards documents published on the Farm Data Standards website include:
 
-* [Animal Data Standard](docs/ADS_portal.md)
+* [Animal Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/README.md)
 
-* [Stock Reconciliation Data Standard](docs/SRDS_portal.md)
+* [Stock Reconciliation Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Stock%20Reconciliation/README.md)
 
-* [Financial Data Standard](docs/FDS_portal.md)
+* [Financial Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Financial%20Data%20Standard/README.md)
 
-* [Farm Features and Attributes Data Standard](docs/FFADS_portal.md)
+* [Farm Features and Attributes Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Features%20and%20Attributes/README.md)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/FMDS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](FMDS_Wiki-Management.md) page.
 
 #### Acknowledgements
 
