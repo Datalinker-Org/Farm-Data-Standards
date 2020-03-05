@@ -1,16 +1,17 @@
 ### Definitions and Abbreviations
 
 For the purposes of this standard, the following definitions shall apply:
+
 Term | Definition
 :--- | :---------
 ISO Date | International Standard 8601 date format: “YYYY-MM-DD”
 KPa | Kilopascal is a unit of pressure
 kW | Kilowatt is a unit of power
 m | metre
-NAIT | National Animal Identification & Tracing
-OGC | Open Geospatial Consortium
+NAIT | National Animal Identification & Tracing. See [National Animal Identification and Tracing Act 2012](http://www.legislation.govt.nz/act/public/2012/0002/latest/DLM3430220.html).
+OGC | Open Geospatial Consortium. See [OGC.org](https://www.ogc.org/) for more information.
 psi | Pound per square inch is a unit of pressure
-URN | Uniform Resource Name
+URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
 
 ### Interpretation
 
