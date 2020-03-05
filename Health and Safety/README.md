@@ -18,25 +18,25 @@ The standard addresses:
 
 ### Topics
 
-* [Identification of Observations](docs/HSDS_Identification-of-Observations.md)
-* [Hazard Data Dictionary](docs/HSDS_Hazard-Data-Dictionary.md)
-  * [Hazard Identification](docs/HSDS_Hazard-Data-Dictionary.md#Hazard-Identification)
-  * [Hazard Types](docs/HSDS_Hazard-Data-Dictionary.md#Hazard-Types-–-Additional-Attributes)
-* [People Data Dictionary](docs/HSDS_People-Data-Dictionary.md)
-  * [Person Identification](docs/HSDS_People-Data-Dictionary.md#Person-Identification)
-  * [Person Attributes](docs/HSDS_People-Data-Dictionary.md#Person-Attributes)
-* [Event Data Dictionary](docs/HSDS_Event-Data-Dictionary.md)
-  * [Event Identification](docs/HSDS_Event-Data-Dictionary.md#Event-Identification)
-  * [Event Attributes](docs/HSDS_Event-Data-Dictionary.md#Event-Attributes)
-  * [Accident, Incident or Near Miss Event](docs/HSDS_Event-Data-Dictionary.md#Accident,-Incident-or-Near-Miss-Event)
+* [Identification of Observations](HSDS_Identification-of-Observations.md)
+* [Hazard Data Dictionary](HSDS_Hazard-Data-Dictionary.md)
+  * [Hazard Identification](HSDS_Hazard-Data-Dictionary.md#Hazard-Identification)
+  * [Hazard Types](HSDS_Hazard-Data-Dictionary.md#Hazard-Types-–-Additional-Attributes)
+* [People Data Dictionary](HSDS_People-Data-Dictionary.md)
+  * [Person Identification](HSDS_People-Data-Dictionary.md#Person-Identification)
+  * [Person Attributes](HSDS_People-Data-Dictionary.md#Person-Attributes)
+* [Event Data Dictionary](HSDS_Event-Data-Dictionary.md)
+  * [Event Identification](HSDS_Event-Data-Dictionary.md#Event-Identification)
+  * [Event Attributes](HSDS_Event-Data-Dictionary.md#Event-Attributes)
+  * [Accident, Incident or Near Miss Event](HSDS_Event-Data-Dictionary.md#Accident,-Incident-or-Near-Miss-Event)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/HSDS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](HSDS_Wiki-Management.md) page.
 
 #### Related Documents
 
 Related standards documents on the Farm Data Standards website include: 
 
-* [Farm Features and Attributes](docs/FFADS_Portal.md)
+* [Farm Features and Attributes](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Features%20and%20Attributes/README.md)
 
 #### Acknowledgements
 
