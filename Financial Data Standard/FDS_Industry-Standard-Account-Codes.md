@@ -1,36 +1,36 @@
 ### Industry Standard Account Codes
 
 contents:
-* [Statement of Profit and Loss](#Statement-of-Profit-and-Loss).
-  * [Revenue and/or Farm Trading](#Revenue-and/or-Farm-Trading).
-  * [Other Revenue](#Other-Revenue).
-  * [Farm Working Expenses](#Farm-Working-Expenses).
-  * [Other Expenses](#Other-Expenses).
-  * [Profit/Loss Calculations](#Profit/Loss-Calculations).
-* [Balance Sheet](#Balance-Sheet).
-  * [Equity](#Equity).
-  * [Assets](#Assets).
-  * [Liabilities](#Liabilities).
-* [Source Accounts](#Source-Accounts).
-  * [Beef Cattle Trading](#Beef-Cattle-Trading).
-  * [Sheep Trading](#Sheep-Trading).
-  * [Dairy Cattle Trading](#Dairy-Cattle-Trading).
-  * [Milk Revenue](#Milk-Revenue).
-  * [Wool Revenue](#Wool-Revenue).
-  * [Other Farm Income](#Other-Farm-Income).
-  * [Farm Operating Expenses](#Farm-Operating-Expenses).
-  * [Repairs and Maintenance](#Repairs-and-Maintenance).
-  * [Vehicles](#Vehicles).
-  * [Rates and Insurance](#Rates-and-Insurance).
-  * [Administration](#Administration).
-  * [Interest, Rent and Lease](#Interest,-Rent-and-Lease).
-  * [Other Income (Off Farm)](#Other-Income-(Off-Farm)).
-  * [Other Expenses (Off Farm)](#Other-Expenses-(Off-Farm)).
-  * [Depreciation, Amortisation and Sale of Plant, Property and Equipment](#Depreciation,-Amortisation-and-Sale-of-Plant,-Property-and-Equipment).
-  * [Agricultural Produce on Hand](#Agricultural-Produce-on-Hand).
-  * [Other Current Assets](#Other-Current-Assets).
-  * [Property, Plant and Equipment](#Property,-Plant-and-Equipment).
-  * [Investment in Shares](#Investment-in-Shares).
+* [Statement of Profit and Loss](#Statement-of-Profit-and-Loss)
+  * [Revenue and/or Farm Trading](#Revenue-and/or-Farm-Trading)
+  * [Other Revenue](#Other-Revenue)
+  * [Farm Working Expenses](#Farm-Working-Expenses)
+  * [Other Expenses](#Other-Expenses)
+  * [Profit/Loss Calculations](#Profit/Loss-Calculations)
+* [Balance Sheet](#Balance-Sheet)
+  * [Equity](#Equity)
+  * [Assets](#Assets)
+  * [Liabilities](#Liabilities)
+* [Source Accounts](#Source-Accounts)
+  * [Beef Cattle Trading](#Beef-Cattle-Trading)
+  * [Sheep Trading](#Sheep-Trading)
+  * [Dairy Cattle Trading](#Dairy-Cattle-Trading)
+  * [Milk Revenue](#Milk-Revenue)
+  * [Wool Revenue](#Wool-Revenue)
+  * [Other Farm Income](#Other-Farm-Income)
+  * [Farm Operating Expenses](#Farm-Operating-Expenses)
+  * [Repairs and Maintenance](#Repairs-and-Maintenance)
+  * [Vehicles](#Vehicles)
+  * [Rates and Insurance](#Rates-and-Insurance)
+  * [Administration](#Administration)
+  * [Interest, Rent and Lease](#Interest,-Rent-and-Lease)
+  * [Other Income (Off Farm)](#Other-Income-(Off-Farm))
+  * [Other Expenses (Off Farm)](#Other-Expenses-(Off-Farm))
+  * [Depreciation, Amortisation and Sale of Plant, Property and Equipment](#Depreciation,-Amortisation-and-Sale-of-Plant,-Property-and-Equipment)
+  * [Agricultural Produce on Hand](#Agricultural-Produce-on-Hand)
+  * [Other Current Assets](#Other-Current-Assets)
+  * [Property, Plant and Equipment](#Property,-Plant-and-Equipment)
+  * [Investment in Shares](#Investment-in-Shares)
 
 This part of the Appendix offers a standardised mapping system for a Farm Chart of Accounts. The Account Codes in this document are not intended to prescribe a reporting structure for financial reports, but rather to support mapping to a standardised coding for data interchange.
 
@@ -81,7 +81,7 @@ Mapping Code | Descriptor | Source Accounts
  
 ##### Profit/Loss Calculations
 
-A variety of profit and loss calculations are used across the industry. It is strongly recommended that organisations [SHOULD](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Interpretation) pass only raw account data between systems, and implement profit and loss calculations after the data is received. If organisations choose to pass profit and loss calculations, they [MAY](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Interpretation) use these codes to identify the data.
+A variety of profit and loss calculations are used across the industry. It is strongly recommended that organisations [SHOULD](FDS_Definitions-and-Abbreviations_Interpretation.md#Interpretation) pass only raw account data between systems, and implement profit and loss calculations after the data is received. If organisations choose to pass profit and loss calculations, they [MAY](FDS_Definitions-and-Abbreviations_Interpretation.md#Interpretation) use these codes to identify the data.
 
 Mapping Code | Descriptor | Source Accounts
 :----------- | :--------- | :--------------
@@ -101,7 +101,7 @@ Mapping Code | Descriptor | Source Accounts
  
 #### Balance Sheet
 
-These mapping codes [MAY](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Interpretation) be used in developing messages for interchange of actual financial statements for benchmarking and analysis.
+These mapping codes [MAY](FDS_Definitions-and-Abbreviations_Interpretation.md#Interpretation) be used in developing messages for interchange of actual financial statements for benchmarking and analysis.
 
 ##### Equity
 Mapping Code | Descriptor 
@@ -130,7 +130,7 @@ Mapping Code | Descriptor | Source Accounts
 :----------- | :--------- | :--------------
 7110 | Bank and short-term deposits 	
 7120 | Account receivables 	
-7130 | [GST](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) Receivable.
+7130 | [GST](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) Receivable.
 7140 | Income equalisation deposit.
 7150 | Agricultural produce on hand. | 3.16
 7160 | Income tax receivable. 	
@@ -152,7 +152,7 @@ Mapping Code | Descriptor | Source Accounts
 Mapping Code | Descriptor 
 :----------- | :--------- 
 8110 | Bank overdrafts.
-8120 | [GST](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) payable.
+8120 | [GST](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) payable.
 8130 | Income tax payable.
 8140 | Account payables.
 8150 | Current portion term loans.
@@ -169,7 +169,7 @@ Mapping Code | Descriptor
 
 #### Source Accounts 
 
-These mapping codes [MAY](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Interpretation) be used in developing messages for interchange of actual financial statements for benchmarking and analysis.
+These mapping codes [MAY](FDS_Definitions-and-Abbreviations_Interpretation.md#Interpretation) be used in developing messages for interchange of actual financial statements for benchmarking and analysis.
 
 ##### Beef Cattle Trading
 
