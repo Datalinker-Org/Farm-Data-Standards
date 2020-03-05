@@ -5,13 +5,13 @@ For the purposes of this standard, the following definitions shall apply:
 Term | Definition
 :--- | :---------
 ISO Date | ISO 8601 date format: YYYY-MM-DD.
+HSNO | See [Hazardous Substances and New Organisms Act 1996](http://www.legislation.govt.nz/act/public/1996/0030/latest/DLM381222.html)
+NAIT | National Animal Identification & Tracing. See [National Animal Identification and Tracing Act 2012](http://www.legislation.govt.nz/act/public/2012/0002/latest/DLM3430220.html).
+OEM | Original Equipment Manufacturer.
+OGC | Open Geospatial Consortium. See [OGC.org](https://www.ogc.org/) for more information.
 PCBU | Person Conducting a Business or Undertaking.
 PICA | Person in Charge of Animals.
-OEM | Original Equipment Manufacturer.
-OGC | Open Geospatial Consortium.
-HSNO | Hazardous Substances and New Organisms Act.
-NAIT | National Animal Identification & Tracing.
-URN | Uniform Resource Name.
+URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
 
 ### Interpretation
 
