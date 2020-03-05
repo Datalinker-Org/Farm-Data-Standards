@@ -1,13 +1,13 @@
 ### Key Performance Indicator Lists
 
 Contents:
-* [Key Performance Indicators (Informative)](#Key-Performance-Indicators-(Informative))
-* [Common Denominators (Informative)](#Common-Denominators-(Informative))
+* [Key Performance Indicators](#Key-Performance-Indicators)
+* [Common Denominators](#Common-Denominators)
 
-#### Key Performance Indicators (Informative)
+#### Key Performance Indicators
 
-Key performance indicators are currently being developed by industry working groups. The list below is indicative of the types of [KPI](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations), and does not yet form part of this standard.
-[KPI](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) |
+Key performance indicators are currently being developed by industry working groups. The list below is indicative of the types of [KPI](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations), and does not yet form part of this standard.
+[KPI](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) |
 :-----|
 Carcass Weight | 
 Cows (number of cows) | 
@@ -33,9 +33,9 @@ Revised Stock Units (RSU) |
 Total Farm Working Expenses | 
 Velvet Weight | 
 
-#### Common Denominators (Informative)
+#### Common Denominators
 
-Key performance indicators are currently being developed by industry working groups. The list below is indicative of the denominators used in [KPI](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)s, and does not yet form part of this standard.
+Key performance indicators are currently being developed by industry working groups. The list below is indicative of the denominators used in [KPI](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)s, and does not yet form part of this standard.
 
 Denominator | 
 :---------- |
