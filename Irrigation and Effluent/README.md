@@ -14,24 +14,24 @@ This standard addresses the following areas:
 6.	Climatic observations relevant to irrigation and the spreading of effluent
 
 ### Topics
-* [Identification of Observations](docs/IEDS_Identification-of-Observations.md)
-  * [Location Identification](docs/IEDS_Identification-of-Observations.md#Location-Identification)
-  * [Spatial Attributes](docs/IEDS_Identification-of-Observations.md#Spatial-Attributes)
-* [Irrigation and Effluent Observations and Attributes](docs/IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md)
-  * [Irrigation Equipment and Water Supply](docs/IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Irrigation-Equipment-and-Water-Supply)
-  * [Production, collection, storage, and treatment of effluent](docs/IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Production,-collection,-storage,-and-treatment-of-effluent)
-  * [Irrigation and effluent application](docs/IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Irrigation-and-effluent-application)
-  * [Soil attributes and observations](docs/IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Soil-attributes-and-observations)
-  * [Use of water by plants](docs/IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Use-of-water-by-plants)
-  * [Climatic and Weather Observations](docs/IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Climatic-and-Weather-Observations)
+* [Identification of Observations](IEDS_Identification-of-Observations.md)
+  * [Location Identification](IEDS_Identification-of-Observations.md#Location-Identification)
+  * [Spatial Attributes](IEDS_Identification-of-Observations.md#Spatial-Attributes)
+* [Irrigation and Effluent Observations and Attributes](IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md)
+  * [Irrigation Equipment and Water Supply](IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Irrigation-Equipment-and-Water-Supply)
+  * [Production, collection, storage, and treatment of effluent](IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Production,-collection,-storage,-and-treatment-of-effluent)
+  * [Irrigation and effluent application](IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Irrigation-and-effluent-application)
+  * [Soil attributes and observations](IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Soil-attributes-and-observations)
+  * [Use of water by plants](IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Use-of-water-by-plants)
+  * [Climatic and Weather Observations](IEDS_Irrigation-and-Effluent-Observations-and-Attributes.md#Climatic-and-Weather-Observations)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/IEDS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](EDS_Wiki-Management.md) page.
 
 #### Related Documents
 
 Related standards documents to be published in 2014 on the Farm Data Standards website include:
-* [Stock Reconciliation Data Standard](docs/SRDS_Portal.md)
-* [Financial Data Standard](docs/FDS_Portal.md)
+* [Stock Reconciliation Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Stock%20Reconciliation/README.md)
+* [Financial Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Financial%20Data%20Standard/README.md)
 
 #### Acknowledgements
 
