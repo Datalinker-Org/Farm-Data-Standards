@@ -1,21 +1,21 @@
 ### Lists of Enumerated Values
 
 Contents:
-* [Tax Types (Normative)](#Tax-Types-(Normative))
-* [Pricing or Valuation Basis (Normative)](#Pricing-or-Valuation-Basis-(Normative))
-* [Common Units (Normative)](#Common-Units-(Normative))
+* [Tax Types](#Tax-Types)
+* [Pricing or Valuation Basis](#Pricing-or-Valuation-Basis)
+* [Common Units](#Common-Units)
 
-#### Tax Types (Normative)
+#### Tax Types
 
 Tax Type |
 :------- |
-Input ([GST](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) on Income). |
-Output ([GST](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) on Expenses). |
+Input ([GST](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) on Income). |
+Output ([GST](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) on Expenses). |
 None |
 Zero Rated. |
-[GST](docs/FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) On Imports. |
+[GST](FDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) On Imports. |
 
-#### Pricing or Valuation Basis (Normative)
+#### Pricing or Valuation Basis
 
 Pricing Basis | 
 :------------ |
@@ -31,7 +31,7 @@ Per Tonne. |
 Per Transaction. | 
 Per Week. | 
 
-#### Common Units (Normative)
+#### Common Units
 
 Unit |
 :--- |
