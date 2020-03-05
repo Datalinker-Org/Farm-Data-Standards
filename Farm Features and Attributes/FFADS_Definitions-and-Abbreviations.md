@@ -5,7 +5,7 @@ For the purposes of this standard, the following definitions [SHALL](#Interpreta
 Term | Definition
 :--- | :---------
 Cadastral | Map or survey showing the extent, value, and ownership of land.
-ha | Hectare. <br> Areas are to be specified in m<sup>2</sup> for compliance with international standards[^INSPIRE]. These measurements can be converted, for example to hectares and does not affect what end users will see. 
+ha | Hectare. <br> Areas are to be specified in m<sup>2</sup> for compliance with international standards<sup id="INSPIRE">[1](#f1)</sup>. These measurements can be converted, for example to hectares and does not affect what end users will see. 
 ISO Date | International Standard 8601 date format: “YYYY-MM-DD”
 LMU | Land Management Unit
 m | metre
@@ -22,4 +22,4 @@ The terms ‘**Normative**’ and ‘**Informative**’ have been used in this s
 
 #### Footnotes
 
-[^INSPIRE]: [INSPIRE Feature Concept Register](http://inspire.ec.europa.eu/featureconcept)
+<b id="f1">1</b> [INSPIRE Feature Concept Register](http://inspire.ec.europa.eu/featureconcept). [↩](#INSPIRE)
