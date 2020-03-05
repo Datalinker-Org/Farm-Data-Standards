@@ -9,7 +9,7 @@ EDIFACT | See the [United Nations rules for Electronic Data Interchange for Admi
 ISO | International Organization for Standardization)
 ISO Date | International Standard 8601 date format: “YYYY-MM-DD”
 KPI | Key Performance Indicator.
-UBL | OASIS Universal Business Language[^UBL]. See [Universal Business Language](http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html).
+UBL | See OASIS [Universal Business Language](http://docs.oasis-open.org/ubl/os-UBL-2.1/UBL-2.1.html).
 GST | Goods and Services Tax.
 RSU | Revised Stock Unit.
 FTE | Full Time Equivalents (usually in reference to staff).
