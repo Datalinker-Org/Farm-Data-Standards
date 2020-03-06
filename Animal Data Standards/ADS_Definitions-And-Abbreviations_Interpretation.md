@@ -23,7 +23,7 @@ SIL | Sheep Improvement Limited.
 SKU | Stock keeping unit.
 UN/CEFACT | United Nations/Centre for Facilitation of Procedures and Practices in Administration, Commerce and Transport.
 URI | Uniform Resource Identifier.
-URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
+URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
 XML | Extensible Mark-up Language.
 
 #### Interpretation
