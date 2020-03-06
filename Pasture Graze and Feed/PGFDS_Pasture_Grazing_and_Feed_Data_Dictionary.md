@@ -42,7 +42,7 @@ Crop Class | Enumeration | See [Crop Class](PGFDS_Lists-of-Valid-Values.md#Crop-
 Supplementary feed type harvested | Enumeration | See [Feed Type](PGFDS_Lists-of-Valid-Values.md#Feed-Type).
 Paddock ID | String | Area ID on farm being harvested for supplementary feed.
 Dry weight | Float | Total dry weight of a supplementary feed; tonnes of dry matter.
-Harvest units | | See {Error! Reference source not found. above
+Harvest units | | 
 Dry matter % | Float | %
 Packaging type | Enumeration | Way a bale has been packaged; square, round, wrapped.
 
@@ -53,7 +53,7 @@ Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Supplementary feed type purchased | Enumeration | See [Feed Type](PGFDS_Lists-of-Valid-Values.md#Feed-Type).
 Total supplementary feed purchased | Float | Amount of supplementary feed which has been bought.
-Purchase units | | See {Error! Reference source not found. above
+Purchase units | | 
 Dry matter % | Float | %
 Supplementary feed cost | Integer | Cost of feed which has been bought; dollars ($), dollars/year ($/year).
 
@@ -77,7 +77,7 @@ Attributes | Data Types | Notes
 Supplementary feed type consumed | Enumeration | See [Feed Type](PGFDS_Lists-of-Valid-Values.md#Feed-Type).
 Total fed out | Float | Total amount of feed which has been fed out for date or period.
 Total feed consumed | Float | Amount of feed which has been consumed.
-Consume units | | See {Error! Reference source not found. above
+Consume units | | 
 Fed out per stock unit | Float | Amount of feed which has been fed out per [SU](PGFDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) per day; ([kgDM](PGFDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)/[SU](PGFDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)/day).
 Feed consumed per stock unit | Float | Amount consumed per [SU](PGFDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) per day [kgDM](PGFDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)/[SU](PGFDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations)/day.
 Percentage of feed consumed | Float | Amount of feed eaten over the total amount of feed fed out; %
