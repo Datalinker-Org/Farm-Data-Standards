@@ -29,7 +29,7 @@ Widespread alignment across the sector will mean that farmers can spend less tim
 The Farm Data Standards cover individual animal and mob data, stock reconciliations, farm financials and account coding, land applications, irrigation and effluent, feed and grazing and farm level data. New standards are developed in response to industry needs.
 
 ![DairyNZLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/DairyNZ.png "DairyNZ Logo")
-![PGP_Header](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/PGP_Header.jpg"PGP Header")
+![PGP_Header](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/PGP_Header.jpg "PGP Header")
 ![MPILogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/MPI.png "MPI Logo")
 ![RMPP.png](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/RMPP.png "RMPP Logo")
 
