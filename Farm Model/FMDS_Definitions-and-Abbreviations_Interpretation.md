@@ -13,7 +13,7 @@ ISO Date | International Standard 8601 date format: “YYYY-MM-DD”
 PCBU | Person Conducting a Business or Undertaking
 PICA | Person in Charge of Animals
 SIL | Sheep Improvement Limited
-URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
+URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
 
 ### Interpretation
 
