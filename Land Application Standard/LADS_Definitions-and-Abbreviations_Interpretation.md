@@ -12,7 +12,7 @@ OGC | Open Geospatial Consortium. See [OGC.org](https://www.ogc.org/) for more i
 SKU | Stock keeping unit.
 URI | Uniform Resource Identifier.
 URL | Uniform Resource Locator.
-URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
+URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
 
 ### Interpretation
 
