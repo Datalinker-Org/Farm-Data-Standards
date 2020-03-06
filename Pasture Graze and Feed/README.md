@@ -5,29 +5,29 @@ Broad adoption of a common vocabulary and data dictionary for exchange of farm i
 #### Scope and Application
 
 This standard addresses the following areas:
-* Harvesting, purchase, storage, utilisation and sale of supplementary feeds.
-* Grazing observations and summaries of grazing off and grazing systems
-* Pasture growth, pasture, and feed analysis
+* Harvesting, purchase, storage, utilisation and sale of supplementary feeds;
+* Grazing observations and summaries of grazing off and grazing systems;
+* Pasture growth, pasture, and feed analysis;
 * Monitoring of pasture pests and weeds.
 
 ### Topics
 
-* [Identification of Farm and Mobs](docs/PGFDS_Identification-of-Farm-and-Mobs.md)
-* [Pasture, Grazing and Feed Observations](docs/PGFDS_Pasture-Grazing-and-Feed-Observations.md)
-* [Pasture, Grazing and Feed Data Dictionary](docs/PGFDS_Pasture_Grazing_and_Feed_Data_Dictionary.md)
-* [Lists of Valid Values](docs/PGFDS_Lists-of-Valid-Values.md)
+* [Identification of Farm and Mobs](PGFDS_Identification-of-Farm-and-Mobs.md)
+* [Pasture, Grazing and Feed Observations](PGFDS_Pasture-Grazing-and-Feed-Observations.md)
+* [Pasture, Grazing and Feed Data Dictionary](PGFDS_Pasture_Grazing_and_Feed_Data_Dictionary.md)
+* [Lists of Valid Values](PGFDS_Lists-of-Valid-Values.md)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/PGFDS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](PGFDS_Wiki-Management.md) page.
 
 
 #### Related Documents
 
 Related Data Standard documents on the Farm Data Standards website include:
 
-* [Animal data standard](docs/ADS_Portal.md)
-* [Stock Reconciliation data standard](docs/SRDS_Portal.md)
-* [Land Application data standard](docs/LADS_Portal.md)
-* [Irrigation & Effluent data standard](docs/IEDS_Portal.md)
+* [Animal data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/README.md)
+* [Stock Reconciliation data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Stock%20Reconciliation/README.md)
+* [Land Application data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Land%20Application%20Standard/README.md)
+* [Irrigation & Effluent data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Irrigation%20and%20Effluent/README.md)
 
 #### Acknowledgements
 
