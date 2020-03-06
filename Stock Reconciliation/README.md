@@ -7,28 +7,28 @@ This standard addresses terminologies applied by industry to livestock reconcili
 
 ### Topics
 
-* [Interchanging Stock Reconciliation Data](docs/SCDS_Interchanging-Stock-Reconciliation-Data.md)
-  * [Stock Class Names and Attributes](docs/SCDS_Interchanging-Stock-Reconciliation-Data.md#Interchanging-Stock-Reconciliation-Data)
-  * [Transaction Types](docs/SCDS_Interchanging-Stock-Reconciliation-Data.md#Transaction-Types)
-* [Stock Reconciliation Data Dictionary](docs/SCDS_Stock-Reconciliation-Data-Dictionary.md)
-* [Lists of Valid Values](docs/SCDS_Lists-of-Valid-Values.md)
-  * [Species](docs/SCDS_Lists-of-Valid-Values.md#Species)
-  * [Reproductive Status](docs/SCDS_Lists-of-Valid-Values.md#Reproductive-Status)
-  * [Fertility Status](docs/SCDS_Lists-of-Valid-Values.md#Fertility-Status)
-  * [Transaction Category and Transaction Type](docs/SCDS_Lists-of-Valid-Values.md#Transaction-Category-and-Transaction-Type)
-* [Stock Class Definitions for Cattle](docs/SCD_Stock_Class_Definitions_for_Cattle.md)
-* [Stock Class Definitions for Sheep](docs/SCDS_Stock-Class-Definitions-for-Sheep.md)
-* [Stock Class Definitions for Deer](docs/SCDS_Stock-Class-Definitions-for-Deer.md)
-* [Stock Class Definitions for Goats](docs/SCDS_Stock-Class-Definitions-for-Goats.md)
+* [Interchanging Stock Reconciliation Data](SCDS_Interchanging-Stock-Reconciliation-Data.md)
+  * [Stock Class Names and Attributes](SCDS_Interchanging-Stock-Reconciliation-Data.md#Interchanging-Stock-Reconciliation-Data)
+  * [Transaction Types](SCDS_Interchanging-Stock-Reconciliation-Data.md#Transaction-Types)
+* [Stock Reconciliation Data Dictionary](SCDS_Stock-Reconciliation-Data-Dictionary.md)
+* [Lists of Valid Values](SCDS_Lists-of-Valid-Values.md)
+  * [Species](SCDS_Lists-of-Valid-Values.md#Species)
+  * [Reproductive Status](SCDS_Lists-of-Valid-Values.md#Reproductive-Status)
+  * [Fertility Status](SCDS_Lists-of-Valid-Values.md#Fertility-Status)
+  * [Transaction Category and Transaction Type](SCDS_Lists-of-Valid-Values.md#Transaction-Category-and-Transaction-Type)
+* [Stock Class Definitions for Cattle](SCD_Stock_Class_Definitions_for_Cattle.md)
+* [Stock Class Definitions for Sheep](SCDS_Stock-Class-Definitions-for-Sheep.md)
+* [Stock Class Definitions for Deer](SCDS_Stock-Class-Definitions-for-Deer.md)
+* [Stock Class Definitions for Goats](SCDS_Stock-Class-Definitions-for-Goats.md)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/SRDS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](SRDS_Wiki-Management.md) page.
 
 #### Related Documents
 
 Related standards documents to be published in 2014 on the Farm Data Standards website include:
 
-* [Animal Data Standard](docs/ADS_Portal.md).
-* [Financial Data Standard](docs/FDS_Portal.md).
+* [Animal Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/README.md).
+* [Financial Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Financial%20Data%20Standard/README.md).
 
 #### Acknowledgements 
 
