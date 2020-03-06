@@ -10,7 +10,7 @@ The Data Standards support **organisations** to store and transfer data in a con
 
 Farmers don’t have to do anything new. It’s up to your farm systems providers and industry organisations to invest in aligning their systems to the Farm Data Standards.
 
-![AndrewHoggard](AndrewHoggard.jpg "Andrew Hoggard, Federated Famers of New Zealand Dairy Industry Group Chairman")
+![AndrewHoggard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/AndrewHoggard.jpg "Andrew Hoggard, Federated Famers of New Zealand Dairy Industry Group Chairman")
 
 > “One thing farmers are always saying is that they are sick and tired of having to supply data three, four or five times to different people. It’s all about putting systems in place and getting the ground work right.”
 
