@@ -11,7 +11,7 @@ Contents:
 
 #### Crop Class
 
-Crop Class is used in the Supplementary Feed category. See the Farm Features and Attributes Data Standard [Official Recording Scheme Identifiers section](docs/ADS_Animal-Identifiers-NZ.md#Official-Recording-Scheme-Identifiers) for a list of plot activity values for crops and grazing.
+Crop Class is used in the Supplementary Feed category. See the Farm Features and Attributes Data Standard [Official Recording Scheme Identifiers section](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Identifiers-NZ.md#Official-Recording-Scheme-Identifiers) for a list of plot activity values for crops and grazing.
 
 Valid values for Crop Class are: |
 :------------------------------- |
@@ -22,7 +22,7 @@ Forage Crop |
 
 #### Feed Type
 
-Feed Type is used in the Supplementary Feed observations. This list aligns to the Feed Type list in [Feed & Growth Section](docs/ADS_Animal-Observations-Data-Dictionary_Feed-And-Growth.md#Feed-Types) in the Animal Observations Data Dictionary of the Animal Data Standard.
+Feed Type is used in the Supplementary Feed observations. This list aligns to the Feed Type list in [Feed & Growth Section](docs/https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Observations-Data-Dictionary_Feed-And-Growth.md#Feed-Types) in the Animal Observations Data Dictionary of the Animal Data Standard.
 
 Valid values for Feed Type are:
 
