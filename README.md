@@ -1,20 +1,20 @@
 # New Zealand Farm Data Standards
 
-* [FAQ]()
-* [For Farmers]()
-* [Farm Data Standards]()
-  * [Animal Data Standard]()
-  * [Land Application Data Standard]()
-  * [Financial Data Standard]()
-  * [Irrigation & Effluent Data Standard]()
-  * [Stock Reconciliation Data Standard]()
-  * [Farm Feature & Attributes Data Standard]()
-  * [Pasture, Grazing & Feed Data Standard]()
-  * [Farm & Model Data Standard]()
-  * [Health & Safety Data Standard]()
-* [Animal Breed List]()
-* [Animal Feed List]()
-* [URN Namespaces]()
+* [FAQ](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_FAQ.md)
+* [For Farmers](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_For-Farmers.md)
+* Farm Data Standards
+  * [Animal Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/README.md)
+  * [Land Application Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Land%20Application%20Standard/README.md)
+  * [Financial Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Financial%20Data%20Standard/README.md)
+  * [Irrigation & Effluent Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Irrigation%20and%20Effluent/README.md)
+  * [Stock Reconciliation Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Stock%20Reconciliation/README.md)
+  * [Farm Feature & Attributes Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Features%20and%20Attributes/README.md)
+  * [Pasture, Grazing & Feed Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/README.md)
+  * [Farm Model Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Model/README.md)
+  * [Health & Safety Data Standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Health%20and%20Safety/README.md)
+* [Animal Breed List](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/FarmDataStandards_Animal-Breed-List.md)
+* [Animal Feed List](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/FarmDataStandards_Animal-Feed-List.md)
+* [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md)
 
 ### Building Consistency
 
