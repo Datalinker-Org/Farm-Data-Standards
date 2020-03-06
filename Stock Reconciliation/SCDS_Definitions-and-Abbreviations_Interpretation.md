@@ -9,11 +9,11 @@ Term | Definition
 ISO | International Organization for Standardization).
 ISO Date | ISO 8601 date format: YYYY-MM-DD.
 MA | Mixed age.
-NAIT | National Animal Identification & Tracing.
+NAIT | National Animal Identification & Tracing. See [National Animal Identification and Tracing Act 2012](http://www.legislation.govt.nz/act/public/2012/0002/latest/DLM3430220.html).
 R1 | Rising 1 year old.
 R2 | Rising 2 year old.
 R3 | Rising 3 year old.
-URN | Uniform Resource Name.
+URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
 YMD | Year-Month-Day.
 
 ### Interpretation
