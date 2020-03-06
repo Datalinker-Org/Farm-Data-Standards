@@ -34,7 +34,6 @@ This standard addresses the following areas:
   * [Animal Observations Data Dictionary](ADS_Animal-Observations-Data-Dictionary.md)
 
 For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](ADS_Wiki-Management.md) page.
-[Wiki](https://github.com/Datalinker-Org/Farm-Data-Standards/wiki/Animal-Data-Standards)
 
 #### Related Documents
 
