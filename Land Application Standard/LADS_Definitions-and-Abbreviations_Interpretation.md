@@ -7,12 +7,12 @@ Term | Definition
 GPS | Global Positioning System.
 ISO | International Organization for Standardization)
 ISO Date | ISO 8601 date format: YYYY-MM-DD.
-NAIT | National Animal Identification & Tracing.
-OGC | Open Geospatial Consortium
+NAIT | National Animal Identification & Tracing. See [National Animal Identification and Tracing Act 2012](http://www.legislation.govt.nz/act/public/2012/0002/latest/DLM3430220.html).
+OGC | Open Geospatial Consortium. See [OGC.org](https://www.ogc.org/) for more information.
 SKU | Stock keeping unit.
 URI | Uniform Resource Identifier.
 URL | Uniform Resource Locator.
-URN | Uniform Resource Name.
+URN | Uniform Resource Name. See our page on [URN Namespaces](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md).
 
 ### Interpretation
 
