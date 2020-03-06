@@ -8,11 +8,11 @@ This standard addresses the data required for both the planned and the actual ap
 
 The information specified includes:
 
-* the customer order
+* the customer order;
 
-* the area spread
+* the area spread;
 
-* product details including nutrient information
+* product details including nutrient information;
 
 * spatial representation of the spread and spray tracks and of any ecological hot-spots. 
 
@@ -20,28 +20,28 @@ Adoption of this standard will provide compatibility between spreading control e
 
 ### Topics
 
-* [Components of an Observation](docs/LADS_Components_of_an_Observation.md)
-  * [Components of an Observation](docs/LADS_Components_of_an_Observation.md#Location-Identification)
-  * [Spatial Attributes](docs/LADS_Components_of_an_Observation.md#Spatial-Attributes)
-* [Components of Land Application Data Interchange](docs/LADS_Components-of-Land-Application-Data-Interchange.md)
-  * [Application Information](docs/LADS_Components-of-Land-Application-Data-Interchange.md#Application-Information)
-  * [Product Information](docs/LADS_Components-of-Land-Application-Data-Interchange.md#Product-Information)
-* [Land Applications Data Dictionary](docs/LADS_Land-Applications-Data-Dictionary.md)
-  * [Application Information](docs/LADS_Components-of-Land-Application-Data-Interchange.md#Application-Information)
-  * [Product Information](docs/LADS_Components-of-Land-Application-Data-Interchange.md#Product-Information)
-  * [Spread Representations](docs/LADS_Components-of-Land-Application-Data-Interchange.md#Spread-Representations)
-* [Lists of Valid Values](docs/LADS_Lists-of-Valid-Values.md)
+* [Components of an Observation](LADS_Components_of_an_Observation.md)
+  * [Components of an Observation](LADS_Components_of_an_Observation.md#Location-Identification)
+  * [Spatial Attributes](dLADS_Components_of_an_Observation.md#Spatial-Attributes)
+* [Components of Land Application Data Interchange](LADS_Components-of-Land-Application-Data-Interchange.md)
+  * [Application Information](LADS_Components-of-Land-Application-Data-Interchange.md#Application-Information)
+  * [Product Information](LADS_Components-of-Land-Application-Data-Interchange.md#Product-Information)
+* [Land Applications Data Dictionary](LADS_Land-Applications-Data-Dictionary.md)
+  * [Application Information](LADS_Components-of-Land-Application-Data-Interchange.md#Application-Information)
+  * [Product Information](LADS_Components-of-Land-Application-Data-Interchange.md#Product-Information)
+  * [Spread Representations](LADS_Components-of-Land-Application-Data-Interchange.md#Spread-Representations)
+* [Lists of Valid Values](LADS_Lists-of-Valid-Values.md)
 
-For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](docs/LADS_Wiki-Management.md) page.
+For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](LADS_Wiki-Management.md) page.
 
 #### Related Documents
 
 Related standards documents on the Farm Data Standards website include:
 
-* [Animal data standard](docs/ADS_Portal.md)
-* [Stock Reconciliation data standard](docs/SRDS_Portal.md)
-* [Pasture, Graze & Feed data standard](docs/PGFDS_Portal.md)
-* [Irrigation & Effluent data standard](docs/IEDS_Portal.md)
+* [Animal data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/README.md)
+* [Stock Reconciliation data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Stock%20Reconciliation/README.md)
+* [Pasture, Graze & Feed data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Pasture%20Graze%20and%20Feed/README.md)
+* [Irrigation & Effluent data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Irrigation%20and%20Effluent/README.md)
 
 
 #### Acknowledgements
