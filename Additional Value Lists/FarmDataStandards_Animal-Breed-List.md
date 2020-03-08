@@ -19,7 +19,7 @@ Data for the Animal Breed list uses the following sources: ICAR Interbull Breed 
 ##### Download table
 
 * [JSON format](https://raw.githubusercontent.com/DataLinkerLimited/Animal-Data-Standard/master/Breedlist%20JSON%20v1.2.json)
-* [PDF format](http://www.farmdatastandards.org.nz/wp-content/uploads/2018/11/animal-breeds-v1-1.pdf)
+* [PDF format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/animal-breeds-v1-1.pdf)
 * [XLSX format](http://www.farmdatastandards.org.nz/wp-content/uploads/2018/11/animal-breeds-v1-1.xlsx)
 * [CSV format](http://www.farmdatastandards.org.nz/wp-content/uploads/2018/11/animal-breeds-v1-1.csv)
 
