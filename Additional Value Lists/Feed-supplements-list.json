@@ -1,0 +1,262 @@
+[
+  {
+    "Feed Category": "Grains",
+    "Feed Type": "Barley grain"
+  },
+  {
+    "Feed Category": "Grains",
+    "Feed Type": "Maize grain"
+  },
+  {
+    "Feed Category": "Grains",
+    "Feed Type": "Oats grain"
+  },
+  {
+    "Feed Category": "Grains",
+    "Feed Type": "Pea"
+  },
+  {
+    "Feed Category": "Grains",
+    "Feed Type": "Soya Bean Meal"
+  },
+  {
+    "Feed Category": "Grains",
+    "Feed Type": "Triticale grain"
+  },
+  {
+    "Feed Category": "Grains",
+    "Feed Type": "Wheat grain"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Annual ryegrass"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Japanese millet"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Kale"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Lucerne"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Maize greenfeed"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Oats leafy"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Oats milky dough"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Pasture"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Rape"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Rye corn"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Sorghum"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Sulla"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Swedes"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Triticale"
+  },
+  {
+    "Feed Category": "Green feeds",
+    "Feed Type": "Turnips"
+  },
+  {
+    "Feed Category": "Hay",
+    "Feed Type": "Lucerne hay"
+  },
+  {
+    "Feed Category": "Hay",
+    "Feed Type": "Pasture hay"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Avonfeed"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Bran"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Broll"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Brewers grain"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Canola"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Copra"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Corn grits (Hominy)"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Cottonseed meal"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Fishmeal"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Lucerne meal"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Molasses"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Palm Kernel Extract"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Pollard"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Proliq"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Tallow"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Tapioca"
+  },
+  {
+    "Feed Category": "Processed",
+    "Feed Type": "Urea"
+  },
+  {
+    "Feed Category": "Silage",
+    "Feed Type": "Baleage"
+  },
+  {
+    "Feed Category": "Silage",
+    "Feed Type": "Barley milky dough silage"
+  },
+  {
+    "Feed Category": "Silage",
+    "Feed Type": "Cereal silage"
+  },
+  {
+    "Feed Category": "Silage",
+    "Feed Type": "Lucerne silage"
+  },
+  {
+    "Feed Category": "Silage",
+    "Feed Type": "Maize silage"
+  },
+  {
+    "Feed Category": "Silage",
+    "Feed Type": "Pasture silage"
+  },
+  {
+    "Feed Category": "Silage",
+    "Feed Type": "Sweetcorn silage"
+  },
+  {
+    "Feed Category": "Silage",
+    "Feed Type": "Triticale silage"
+  },
+  {
+    "Feed Category": "Straws",
+    "Feed Type": "Barley Straw"
+  },
+  {
+    "Feed Category": "Straws",
+    "Feed Type": "Corn stover"
+  },
+  {
+    "Feed Category": "Straws",
+    "Feed Type": "Oat straw"
+  },
+  {
+    "Feed Category": "Straws",
+    "Feed Type": "Pea Straw"
+  },
+  {
+    "Feed Category": "Straws",
+    "Feed Type": "Ryegrass straw"
+  },
+  {
+    "Feed Category": "Straws",
+    "Feed Type": "Wheat Straw"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Apple pomace"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Apples"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Cabbage"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Carrots"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Citrus pulp"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Grape pomace"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Kiwifruit"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Onions"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Potato"
+  },
+  {
+    "Feed Category": "Vegetable/Fruit",
+    "Feed Type": "Squash"
+  }
+]
