@@ -1,0 +1,3026 @@
+[
+  {
+    "species": "Cattle",
+    "breedName": "Abondance",
+    "ICARcode3-ch": "ABO",
+    "ICARcode2-ch": "AB",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Africander",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Angler",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Angus",
+    "ICARcode3-ch": "AAN",
+    "ICARcode2-ch": "AN",
+    "prefix": "ANG*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Angus x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "ANGX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Angus Lowline",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Angus Red",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Ankole Watusi",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Aubrac",
+    "ICARcode3-ch": "AUB",
+    "ICARcode2-ch": "AU",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Aussie Red",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Australian Lowline",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Ayshire",
+    "ICARcode3-ch": "RDC",
+    "ICARcode2-ch": "AY",
+    "prefix": "AYR*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Bazadaise",
+    "ICARcode3-ch": "BZD",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Beefalo",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Beef Blend",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Beef Shorthorn",
+    "ICARcode3-ch": "BSH",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Beefmaster",
+    "ICARcode3-ch": "BMA",
+    "ICARcode2-ch": "BM",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Belgian Blue",
+    "ICARcode3-ch": "BBL",
+    "ICARcode2-ch": "",
+    "prefix": "BGB*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Belgian Blue Mixt",
+    "ICARcode3-ch": "WBM",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Belgium Red and White",
+    "ICARcode3-ch": "BER",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Belmont Red",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Blonde D'Aquitaine",
+    "ICARcode3-ch": "BAQ",
+    "ICARcode2-ch": "",
+    "prefix": "BLO*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Blonde D'Aquitaine x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "BLOX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Boran",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Braford",
+    "ICARcode3-ch": "BFD",
+    "ICARcode2-ch": "BO",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Brahman",
+    "ICARcode3-ch": "BRM",
+    "ICARcode2-ch": "BR",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Brand Rood",
+    "ICARcode3-ch": "BRR",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Brangus",
+    "ICARcode3-ch": "BRG",
+    "ICARcode2-ch": "BN",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "British Frisian",
+    "ICARcode3-ch": "BRF",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "British White",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Brown Swiss",
+    "ICARcode3-ch": "BSW",
+    "ICARcode2-ch": "BS",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Buffalo",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Buffalo",
+    "ICARcode3-ch": "CHA",
+    "ICARcode2-ch": "CH",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Charolais x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "CHAX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Chianina",
+    "ICARcode3-ch": "CIA",
+    "ICARcode2-ch": "CA",
+    "prefix": "CHI*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Composite",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "CPE",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "CrossBreed",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "CRB",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Dairy Gir",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Dairy Shorthorn",
+    "ICARcode3-ch": "MSH",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Danish Red",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Devon",
+    "ICARcode3-ch": "DEV",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Devon Red",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RED",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Dexter",
+    "ICARcode3-ch": "DXT",
+    "ICARcode2-ch": "DR",
+    "prefix": "DEX*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Dikbil",
+    "ICARcode3-ch": "DIK",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Droughtmaster",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Durham",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Dutch Belted (Lakenvelder)",
+    "ICARcode3-ch": "DBE",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Dutch Frisian",
+    "ICARcode3-ch": "DFR",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Eringer",
+    "ICARcode3-ch": "ERI",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Enderby Island",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Eastern Flanders White Red",
+    "ICARcode3-ch": "BWR",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "European Red Dairy Bredd",
+    "ICARcode3-ch": "RDC",
+    "ICARcode2-ch": "RE",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Friesian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "FRI",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Friesian x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "FRIX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Galloway (including Belted Galloway)",
+    "ICARcode3-ch": "GLW",
+    "ICARcode2-ch": "GA",
+    "prefix": "GAL*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Galloway Belted",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "GAB",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Gasconne",
+    "ICARcode3-ch": "GAS",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Gelbvieh",
+    "ICARcode3-ch": "GVH",
+    "ICARcode2-ch": "GV",
+    "prefix": "GEL*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Girolando",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Glan Donnersberg",
+    "ICARcode3-ch": "GDB",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Greyman",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Groninger",
+    "ICARcode3-ch": "GRO",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Guernsey",
+    "ICARcode3-ch": "GUE",
+    "ICARcode2-ch": "GU",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Guernsey-Canadian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hays Converter",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hereford",
+    "ICARcode3-ch": "HER",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hereford x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "HERX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hereford Friesian x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "HFX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hereford Horned",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "HEQ",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hereford Polled",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hereford White",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hereford x Angus",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hereford x Friesian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Highland Cattle",
+    "ICARcode3-ch": "HLA",
+    "ICARcode2-ch": "HI",
+    "prefix": "HLD*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Hinterwalder",
+    "ICARcode3-ch": "HWD",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Holstein (Black and White)",
+    "ICARcode3-ch": "HOL",
+    "ICARcode2-ch": "HI",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Holstein Red and White",
+    "ICARcode3-ch": "RED",
+    "ICARcode2-ch": "RW",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Jersey",
+    "ICARcode3-ch": "JER",
+    "ICARcode2-ch": "JE",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Jersey x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "JERX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Kerry",
+    "ICARcode3-ch": "KER",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "KiwiCross",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Limousin",
+    "ICARcode3-ch": "LIM",
+    "ICARcode2-ch": "LI",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Lincoln",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Longhorn",
+    "ICARcode3-ch": "LON",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Luing",
+    "ICARcode3-ch": "LUI",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Maine-Anjou",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "MAJ",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Mandalong Special",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Marchigiana",
+    "ICARcode3-ch": "MAR",
+    "ICARcode2-ch": "MR",
+    "prefix": "MGA*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Maremmana",
+    "ICARcode3-ch": "MAE",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Mashona",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Meuse-Rhine-Yssel",
+    "ICARcode3-ch": "MRY",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Milking Shorthorn",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Mini Scot Highland",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Miniature Hereford",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Mixed Breed",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "MDB",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Montbeliard",
+    "ICARcode3-ch": "MON",
+    "ICARcode2-ch": "MO",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Murray Grey",
+    "ICARcode3-ch": "MGR",
+    "ICARcode2-ch": "MG",
+    "prefix": "MUG *",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Murray Grey x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "MUGX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Nellore",
+    "ICARcode3-ch": "NEL",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "New Zealand Grey",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Normande",
+    "ICARcode3-ch": "NMD",
+    "ICARcode2-ch": "NO",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Norwegian Red",
+    "ICARcode3-ch": "RDC",
+    "ICARcode2-ch": "NR",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Other",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "OTH",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Parthenais",
+    "ICARcode3-ch": "PAR",
+    "ICARcode2-ch": "",
+    "prefix": "PTH*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Pie Rouge",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Piedmont",
+    "ICARcode3-ch": "PIE",
+    "ICARcode2-ch": "PI",
+    "prefix": "PID*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Pinzgau",
+    "ICARcode3-ch": "PIN",
+    "ICARcode2-ch": "PZ",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Rangemaker",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Red Angus",
+    "ICARcode3-ch": "RAN",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Red Devon",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RDN",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Red Poll",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "REP",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Red Sindi",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Romagnola",
+    "ICARcode3-ch": "ROM",
+    "ICARcode2-ch": "RN",
+    "prefix": "RGA*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Rotbut",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Rouge des Pres",
+    "ICARcode3-ch": "RDP",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Rouge Flamande",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Sahiwal",
+    "ICARcode3-ch": "SAH",
+    "ICARcode2-ch": "SW",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Salers",
+    "ICARcode3-ch": "SAL",
+    "ICARcode2-ch": "SL",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Santa Gertrudis",
+    "ICARcode3-ch": "SGE",
+    "ICARcode2-ch": "SE",
+    "prefix": "SAN*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Scottish Highland",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Senepol",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Shaver",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SHV",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Shorthorn Aust Illawara",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Shorthorn Beef",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SHB",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Shorthorn Beef-Polled",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Shorthorn Polled",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Simmental",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Simmental x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SIMX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Simmental x Fleckvieh",
+    "ICARcode3-ch": "SIM",
+    "ICARcode2-ch": "SM",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Simmental-Polled",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "South Devon",
+    "ICARcode3-ch": "SDE",
+    "ICARcode2-ch": "SD",
+    "prefix": "SOD*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Stabilizer",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SBR",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Sussex",
+    "ICARcode3-ch": "SUS",
+    "ICARcode2-ch": "",
+    "prefix": "SSX*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Swedish Red",
+    "ICARcode3-ch": "RDC",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Tarantaise",
+    "ICARcode3-ch": "TAR",
+    "ICARcode2-ch": "TA",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Tasmanian Grey",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Tuli",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Tux",
+    "ICARcode3-ch": "TUX",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Tyrol Grey",
+    "ICARcode3-ch": "TGR",
+    "ICARcode2-ch": "AL",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Verbeter Roodbont",
+    "ICARcode3-ch": "VRB",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Wagyu",
+    "ICARcode3-ch": "WAG",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Welsh Black",
+    "ICARcode3-ch": "WBL",
+    "ICARcode2-ch": "WB",
+    "prefix": "WEB*",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Western Flanders meat",
+    "ICARcode3-ch": "BRV",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "West-Vlaams Rood",
+    "ICARcode3-ch": "BRD",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Witrik",
+    "ICARcode3-ch": "WRI",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Yak",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Zebu Milking",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Cattle",
+    "breedName": "Zebu-Beef",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Awassi",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Borderdale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "BRD",
+    "abbreviation": "Bdale"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Border Leicester",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "BLE",
+    "abbreviation": "Bleic"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Scottish Blackface",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Booroola",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Boor"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Carpet Master",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "CarpMst"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Charollais",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "CHL",
+    "abbreviation": "Charol"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Cheviot",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "CHE",
+    "abbreviation": "Chev"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "ClunForest",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "ClunFor"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Coloured",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Colour"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Columbia",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Columbia"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Composite",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "COM",
+    "abbreviation": "Comp"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Coopworth",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "COP",
+    "abbreviation": "Coop"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Coopdale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "CDL",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Corriedale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "COR",
+    "abbreviation": "Corrie"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Damara",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Dama"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Davisdale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Davis"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Dohne",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Dorset Down",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "DDN",
+    "abbreviation": "DorDn"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Dorset Horn",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "DHN",
+    "abbreviation": "DorHn"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Dorper Black",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "DorpBlk"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Dorper White",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "DorpW"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Drysdale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "DDL",
+    "abbreviation": "Dry"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Easycare",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "East Friesian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "EFR",
+    "abbreviation": "EFr"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "El de France",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "EDF",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "English Leicester",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "ELC",
+    "abbreviation": "ELeic"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Exlana",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Finnsheep",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "FNS",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Finnish Landrace",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Finn"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Finnish x Landrace",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "FinnX"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Finnish x Texel",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "FinTex"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Gotland Pelt",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "GotPelt"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Greeline",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "GRL",
+    "abbreviation": "GreeLn"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Growbulk",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Growbk"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Groplus",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "GRP",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Halfbred",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "HLF",
+    "abbreviation": "Half"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Hampshire",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "HMP",
+    "abbreviation": "Hamp"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Highlander",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "HLD",
+    "abbreviation": "Highlnd"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Highlander x Primera",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "HPX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Ile de France",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "IleDeFr"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Inverdale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Inver"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Karakul",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Katahdin",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Kelso",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "KEL",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Lacaune",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Lamb Supreme",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "LSP",
+    "abbreviation": "Supr"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Lamb Supreme x Perendale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "LSPX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Lamb Supreme x Romney",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "LSRX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Landmark",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "LMK",
+    "abbreviation": "LandMk"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Lincoln",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "LCN",
+    "abbreviation": "Linc"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Lincworth",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Lincwth"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Lleyns",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Lleyn"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Marshall Romney",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "MarRom"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Meat Composite",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "MComp"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Meat Sheep",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Meat"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Meatmaker",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "MeatMk"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Meatmaster",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "MeatMast"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Merino",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "MER",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "NewZealand Marsh",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "NZMrsh"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Oxford x Down",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "OxfX"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Oxford Down",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "OxfDn"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Perendale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "PND",
+    "abbreviation": "Peren"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Poll Dorset",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "PDS",
+    "abbreviation": "PolDor"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Poll Merino",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "PollMer"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Poll Dorset x Texel",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "PDTX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Poll Dorset x Merino",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "PDMR",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Polwarth",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "PWR",
+    "abbreviation": "Polw"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Primera",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "PRM",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Ranger",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RGR",
+    "abbreviation": "Rang"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Romney",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RMN",
+    "abbreviation": "Rom"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Romney x Texel",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RTX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Romney x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RMNX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Romanov",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Romdale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RMD",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Romney Dorset",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "RomDr"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Romlinc",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Romtex",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RMX",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Ryeland",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RYE",
+    "abbreviation": "Rye"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Scottish Blackface",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "BlkFace"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Sire Max",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Sth Africa Meat Merino",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Stabilised Crossbred",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Shropshire",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SHS",
+    "abbreviation": "Shrop"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Stanborough Gotland",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "StanGot"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "St.Criox",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "StCriox"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Snowline",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SNW",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Southdown",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SDW",
+    "abbreviation": "SthDn"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "South Dorset",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SDO",
+    "abbreviation": "SthDor"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "South Hampshire",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "SthHamp"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "South Suffolk",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SSF",
+    "abbreviation": "SthSuff"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Suffolk",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SUF",
+    "abbreviation": "Suff"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "SufTex",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SFX",
+    "abbreviation": "SufTex"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "TEFRom",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "TFM",
+    "abbreviation": "TEFR"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Texel",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "TXL",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Texel x",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "TexX"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Tukidale",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Tuki"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "White Suffolk",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "WhiteSuf"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Welsh Hills Speckles",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "WHSpec"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Wiltshire Dorset",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "WiltDor"
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Wiltshire Horn",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "WHN",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Wiltshire",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "WSH",
+    "abbreviation": "Wilt"
+  },
+  {
+    "species": "Deer",
+    "breedName": "Axis",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Bawean",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Chinese water",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Composite Deer",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Compo"
+  },
+  {
+    "species": "Deer",
+    "breedName": "Danish",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Eastern",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Elk Wapiti",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "ELK",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "English",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "European",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Euro"
+  },
+  {
+    "species": "Deer",
+    "breedName": "Fallow",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "FLW",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Formosan Sika",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Furzeland",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Furzeld"
+  },
+  {
+    "species": "Deer",
+    "breedName": "Furzeland",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Hog",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Hungarian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Hungarn"
+  },
+  {
+    "species": "Deer",
+    "breedName": "Mesopotamian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Muntjac",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "NZ Red",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Pere David",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Red",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "RDD",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Roe",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Romanian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Romann"
+  },
+  {
+    "species": "Deer",
+    "breedName": "Rusa (Sundar Samba)",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Sambar",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Sika",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Unknown Deer",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Unk"
+  },
+  {
+    "species": "Deer",
+    "breedName": "Wapiti",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Warnham",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Warnhm"
+  },
+  {
+    "species": "Deer",
+    "breedName": "White-tail",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Woburn",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Deer",
+    "breedName": "Yugoslavian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": "Yugoslv"
+  },
+  {
+    "species": "Goat",
+    "breedName": "Adal",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Alpine",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Altai Mountain",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "American Pygmy",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Anglo Nubian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "ANB",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Angora",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "AGR",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Arapawa",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "ARP",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Auckland Island",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Australian Feral",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Azerbaijan",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Azpi Gorri",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Barbari",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Beetal",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Bengal",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Berber",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Bezoar",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Boer",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "BOR",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Boran",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "British Alpine",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "BAL",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Brown Shorthair Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Bunte Deutsche Edelziege",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Carpathian Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Cashmere",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "CHM",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Coloured Chamois Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Creole",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Criollo",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Crossbred Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Cyprus",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Damascus",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Dutch Pied",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Fiji",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "French Alpine",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Gaddi",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "German Improved Fawn",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Granada",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Grisons Striped",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Guadalupe Island",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Hebei Dairy",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Indo-Chinese",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Jamnapari",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Kalahari Red",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Kamori",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Karachai",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Katjang",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Kigezi",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Kiko",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "KIK",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Kurdi",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "La Mancha",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Lamancha",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Lori",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Maltese",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Maradi",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Markhor",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Masai",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Maure",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Mingrelian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Mongolian Cashmere Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Moussoro",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Murcia-Granada",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Murciana",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "New Zealand Base Stock",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Nguni",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Nigerian Dwarf",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Norwegian Landrace",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "NZ Feral",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "NZF",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Oberhasli",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Pateri",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Peacock Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Poitou",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Red Sokoto",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Russian Central Asian Local Coarse-Haired",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Saanen",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SAN",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Sable",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "SBL",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Sahelian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "San Clemente",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Savanna",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Shukria",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Sinai",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Small East African",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Somali",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Soviet Mohair",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Sudanese Desert",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Sudanese Nubian",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Syrian Mountain",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Tennessee Fainting",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Tibetan",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Toggenburg",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "TGB",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Tswana",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Tuareg",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Unknown Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Valais Blackneck",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Waipu",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "WPU",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Weiße Deutsche Edelziege",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "West African Dwarf",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "Western Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Goat",
+    "breedName": "White Shorthaired Goat",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "",
+    "abbreviation": ""
+  },
+  {
+    "species": "Sheep",
+    "breedName": "Wiltshire Horn",
+    "ICARcode3-ch": "",
+    "ICARcode2-ch": "",
+    "prefix": "WHN",
+    "abbreviation": ""
+  }
+]
