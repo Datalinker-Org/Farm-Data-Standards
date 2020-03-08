@@ -1,0 +1,69 @@
+Category,Identifier,URN,Description,Format,Values,Owner
+Animal,TB Free Visual,urn:nzl:pri:animal:id:tbfree_Visual,"TBfree visual tags identify an animal suspected of having Tb, commonly referred to as the AHB rector tag.  This is always in addition to the management or NAIT tag.  This also includes an optional year code. Limited to Cattle and Deer herds.","[AHB herd number]-[yy=year (optional)]-[sequence number], e.g. 5236512-12-123456 (hyphen to separate ID components)
+
+Note that NAIT Visual Tag ID components should be separated by a hyphen (-)","TBfree_Visual (with year): aaaaaaa-yy-nnnnnn
+
+Where a= AHB herd number  (7 digits)
+y= year (2 digits)
+n= sequence number (1-6 digits)","OSPRI New Zealand Limited
+info@nait.co.nz
+"
+Animal,NAIT Traka,urn:nzl:pri:animal:id:nait_Traka,"The NAIT Traka is a visual representation of RFID tag is used for Cattle and Deer born before 1/7/2012, though Traka tags were also used after NAIT was established. Scope also includes the TBfree or AHB Traka with the 7 digit TBFree number in place of the NAIT number. Note that the Manufacturer-code is aligned to ISO11785. Limited to Cattle and Deer herds.","The NAIT_Traka postfix can be up to 8 digits, but excluding 7 digits: [Manufacturer-Code ]-[number part of RFID]-[NAIT number {7}, e.g. 942-000012345123-258974
+
+TBfree Traka:
+[Manufacturer-Code]-[number part of RFID]-[TBfree herd number{7}, e.g.  982-523651-258974-1234567","NAIT_Traka: mmm-NNNNNNNNNNNN-AAAAAAAA
+
+Tbfree Traka: : mmm-NNNNNNNNNNNN-aaaaaaa
+
+Where m=ICAR manufacturer code
+N=  number part of RFID (12 digits) 
+A= NAIT number  (2-6 or 8 digits)
+a= AHB herd number (7 digits)","OSPRI New Zealand Limited
+info@nait.co.nz
+"
+Animal,NAIT Visual,urn:nzl:pri:animal:id:nait_Visual,"Visual RFID tag used as the official animal identifier for cattle and deer. NAIT Visual Tag IDs for birth ID formats should be unique, unless the tag is intended to replace a matching NAIT Visual Tag ID where the original tag has been damaged or lost. The NAIT Visual can also include the year born as optional. ","[NAIT number]-[yy(optional)]-[sequence number], e.g. 655123-13-258974, or 655123-258974
+
+Note that NAIT Visual Tag ID components should be separated by a hyphen (-)","NAIT_Visual (with year): AAAAAA-yy-nnnnnn
+
+Where A= NAIT number  (2-6 or 8 digits)
+y= year (2 digits)
+n= sequence number (1-6 digits)","OSPRI New Zealand Limited
+info@nait.co.nz
+"
+Animal,SIL Official ID,urn:nzl:pri:animal:id:sil,"An official SIL identifier includes the
+flock code and tag (the latter a text string), and may
+optionally include the year born (by convention the year is
+often included in the tag number).","[birthFlockCode].[yearBorn].[animalTag] 
+","[ffff].[yyyy].[nnnnnnnnnnnnnnnnnnnnnnnnn]
+
+f = birthFlockCode
+y = yearBorn
+n = animalTag","Beef + Lamb Genetics Limited
+info@blnzgenetics.com"
+Animal,ISO 11784 (RFID),urn:iso:std:iso:11784,An RFID tag is an ICAR coded radio frequency identification tag consisting of a 3 digit ICAR code and a unique 12 digit sequence number,[ICAR Manufacturer code] [unique sequence number],"RFID: mmm nnnnnnnnnnnn  (space may be omitted)
+
+where m = ICAR code
+n = twelve digit unique sequence number
+
+ICAR codes (NZ): 
+982 – Allflex
+951 – Leader
+942 – Zee Tags","International Standards Organisation
+
+http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=25881"
+Animal,GS1 SGTIN (UHF RFID),urn:epc:id:sgtin,"Some trials with UHF RFID in deer  have used an SGTIN (Serialised Global Trade Item Number) issued by global standards organisation GS1 , which functions much like a barcode identifies a category of products, but with the addition of a unique item number as well.",,,"GS1
+
+ http://www.gs1.org/epcglobal"
+Herd,TB Free Number,urn:nzl:pri:herd:TBfree,"TBfree Herd number, sometimes referred to as the AHBHerd.  Defines the animals that live together as a group (for disease management purposes).
+Currently this is limited to Cattle and Deer herds."," 7 digits required, e.g.  4061234   ",nnnnnnn where n= {0-9},"OSPRI New Zealand Limited
+info@nait.co.nz
+"
+Herd,NAIT Number,urn:nzl:pri:herd:NAIT,Referred to as the NAIT number.  The number corresponds to a person in charge of animals (PICA) at a location where Cattle or Deer is produced.," Up to 8 digits (can be 2, 3, 4, 5, 6 or 8 digits, but not 7 digits), e.g.  50812345",nnnnnnnn  where n={0-9},"OSPRI New Zealand Limited
+info@nait.co.nz
+"
+Herd,Flock Code,urn:nzl:pri:herd:sil,Sheep Improvement Database Flock Code. Flock Code is used to define Birth Flock and to define Current Flock,Format: Four – five digit code where n={0-9},,"Beef + Lamb Genetics Limited
+info@blnzgenetics.com"
+Observation,Animal Observation,urn:nzl:pri:animal:observ,This object describes the definitions for individual observations or traits of a group or animal.,,,"NZ Farm Data Standards
+info@datalinker.org.nz"
+Location,Processor,urn:nzl:pri:processor,Processing plants. These are identifier codes used to describe a processing plant.,,,"NZ Farm Data Standards
+info@datalinker.org.nz"
