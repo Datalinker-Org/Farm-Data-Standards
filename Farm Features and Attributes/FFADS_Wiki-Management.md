@@ -14,4 +14,4 @@ Date | Changes Made | Version # | Authors
 
 #### Review of Standards
 
-Suggestions for improvement of this document will be welcomed. [Contact us](http://www.farmdatastandards.org.nz/contact/) to submit your comments using the feedback mechanisms. 
+Suggestions for improvement of this document will be welcomed. 

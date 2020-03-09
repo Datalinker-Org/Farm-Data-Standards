@@ -8,8 +8,8 @@ Feature | Attributes | Data Type | Notes
 [Cadastral](FFADS_Definitions-and-Abbreviations.md#Definitions-and-Abbreviations) Parcel | Area Value | Float | m<sup>2</sup> Registered area value
 Basic Property Unit	| National [Cadastral](FFADS_Definitions-and-Abbreviations.md#Definitions-and-Abbreviations) Reference | String | National code of the [cadastral](FFADS_Definitions-and-Abbreviations.md#Definitions-and-Abbreviations) parcel as recorded by [LINZ](https://data.linz.govt.nz/layer/772-nz-primary-parcels/).
 Basic Property Unit	| Area Value | Float |  m<sup>2</sup> Registered area value
-Holding | | | Additional Holding Attributes are defined in the [Farm and Model data standard](http://www.farmdatastandards.org.nz/wp-content/uploads/2016/03/DINDS-Farm-Model-Data-Discussion-2015-01-09.pdf) as ‘Farm Entity’.
-Site | | | Additional Site Attributes are defined in the [Farm and Model data standard](http://www.farmdatastandards.org.nz/wp-content/uploads/2016/03/DINDS-Farm-Model-Data-Discussion-2015-01-09.pdf) as ‘Management Block’.
+Holding | | | Additional Holding Attributes are defined in the [Farm and Model data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Model/README.md) as ‘Farm Entity’.
+Site | | | Additional Site Attributes are defined in the [Farm and Model data standard](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Model/README.md) as ‘Management Block’.
 Plot | Plot Activity Value | Enumeration | See [Plot Activity](FFA_Enumeration-Lists.md#Plot-Activity-Value-Enumeration-List).
 Plot | Area | Float |  m<sup>2</sup>
 Drainage Basin | Area | Float | m<sup>2</sup>
