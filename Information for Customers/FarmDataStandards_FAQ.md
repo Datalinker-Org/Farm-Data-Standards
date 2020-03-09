@@ -1,6 +1,6 @@
 ### Frequently Asked Questions
 
-###### How does this affect farmers?
+#### How does this affect farmers?
 
 This is all about improving data exchange between the systems that store and manage your farm data. Farmers don’t have to do anything new. It’s up to your farm systems providers and industry organisations to invest in aligning their systems to the Farm Data Standards.
 
