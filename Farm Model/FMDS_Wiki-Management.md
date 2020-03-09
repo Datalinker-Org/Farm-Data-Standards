@@ -1,7 +1,7 @@
 ### Wiki Management
 
 #### Latest Revisions
-The users of this standard should ensure that their copies of the mentioned documents are the latest revisions. The latest version of this Standard will always be published at [www.farmdatastandards.org.nz](http://www.farmdatastandards.org.nz/). 
+The users of this standard should ensure that their copies of the mentioned documents are the latest revisions. 
 
 #### Version History
 
@@ -12,4 +12,4 @@ Date | Changes Made | Version # | Authors
 18 October 2016 | Published version | 1.1 | Don Wilson, Vicki Fabling, Harry Tucker, Andrew Cooke
 
 #### Review of Standards
-Suggestions for improvement of this document will be welcomed. [Contact us](http://www.farmdatastandards.org.nz/contact/) to submit your comments using the feedback mechanisms. 
+Suggestions for improvement of this document will be welcomed. 
