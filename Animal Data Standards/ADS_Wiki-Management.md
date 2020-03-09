@@ -5,7 +5,7 @@
 * [Version Updates](#Version-Updates)
 
 #### Latest Revisions
-The users of this standard should ensure that their copies of the above-mentioned documents are the latest revisions. The latest version of this Standard will always be published at [www.farmdatastandards.org.nz](http://www.farmdatastandards.org.nz/).   
+The users of this standard should ensure that their copies of the above-mentioned documents are the latest revisions.  
 
 #### Version Updates
 Version No. | Section | Change
