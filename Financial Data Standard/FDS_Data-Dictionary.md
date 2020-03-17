@@ -74,7 +74,7 @@ Gross Amount | Float | The tax inclusive amount (Net Amount + Tax Amount).
 Price Basis | Enumeration | Describes the pricing basis of the transaction – see [Tax Type](FDS_Lists-of-Enumerated-Values.md#Tax-Type).
 Description | String | Description of aggregated or budget transaction.
 Quantity | Float | Describes the number of units involved in the transaction.
-Unit | Enumeration | Describes the unit of measure for the item in the transaction; see [Common Units](docs/FDS_Lists-of-Enumerated-Values.md#Common-Units).
+Unit | Enumeration | Describes the unit of measure for the item in the transaction; see [Common Units](FDS_Lists-of-Enumerated-Values.md#Common-Units).
 Net Unit Amount | Float | Describes the value of one unit (Net Amount / Quantity).
 Currency | Enumeration | ISO 4217 International currency code.
 
