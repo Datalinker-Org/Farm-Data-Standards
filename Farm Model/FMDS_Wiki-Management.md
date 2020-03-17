@@ -12,4 +12,4 @@ Date | Changes Made | Version # | Authors
 18 October 2016 | Published version | 1.1 | Don Wilson, Vicki Fabling, Harry Tucker, Andrew Cooke
 
 #### Review of Standards
-Suggestions for improvement of this document will be welcomed. 
+Suggestions for improvement of this document will be welcomed. [Contact Us.](https://github.com/Datalinker-Org/Datalinker-Org.io/blob/master/contact.md)
