@@ -22,7 +22,7 @@ Forage Crop |
 
 #### Feed Type
 
-Feed Type is used in the Supplementary Feed observations. This list aligns to the Feed Type list in [Feed & Growth Section](docs/https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Observations-Data-Dictionary_Feed-And-Growth.md#Feed-Types) in the Animal Observations Data Dictionary of the Animal Data Standard.
+Feed Type is used in the Supplementary Feed observations. This list aligns to the Feed Type list in [Feed & Growth Section](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Observations-Data-Dictionary_Feed-And-Growth.md#Feed-Types) in the Animal Observations Data Dictionary of the Animal Data Standard.
 
 Valid values for Feed Type are:
 
