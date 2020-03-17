@@ -13,4 +13,4 @@ Date | Changes Made | Version # | Authors
 12 November 2015 | Published version | 1.0 | Don Wilson, Jenna Thornborough, Andrew Cooke, Harry Tucker
 
 #### Review of Standards
-Suggestions for improvement of this document will be welcomed.  
+Suggestions for improvement of this document will be welcomed. [Contact Us.](https://github.com/Datalinker-Org/Datalinker-Org.io/blob/master/contact.md)
