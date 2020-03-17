@@ -61,11 +61,11 @@ A number of identifiers are accepted for property identification in New Zealand:
 
 For historic reasons, it will be necessary to support the interchange of data utilising all of these mechanisms. This standard therefore requires that location identifiers [SHALL](ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) be prefixed with a URN namespace identifier. 
 
-**Acceptable URN namespaces for use in New Zealand location identifiers [SHALL](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) be:**
+**Acceptable URN namespaces for use in New Zealand location identifiers [SHALL](ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) be:**
 * **urn:epc:id:sgln or**
 * **a nzl: registered location namespace.**
 
-**For specific interchanges agreed between two parties, the parties [MAY](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) agree to exchange identifiers within a single namespace only, and dispense with the namespace prefix.**
+**For specific interchanges agreed between two parties, the parties [MAY](ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) agree to exchange identifiers within a single namespace only, and dispense with the namespace prefix.**
 
 #### Herd and Flock Identification
 
