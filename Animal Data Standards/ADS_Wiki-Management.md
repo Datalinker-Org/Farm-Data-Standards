@@ -27,4 +27,4 @@ Version 1.1 | A.1 Animal Life | Expanded breed attributes to include; Breed SocS
 Version 1.1 | A.1 Animal Life | Added Pre Birth Mob and Post Birth Mob, as used by SIL.
 
 #### Review of Standards
-Suggestions for improvement of this document will be welcomed. 
+Suggestions for improvement of this document will be welcomed. [Contact Us.](https://github.com/Datalinker-Org/Datalinker-Org.io/blob/master/contact.md)
