@@ -31,7 +31,7 @@ The data dictionaries defined in this standard are intended to support standardi
   * [Common Units](FDS_Lists-of-Enumerated-Values.md#Common-Units)
 * Key Performance Indicator Lists
   * [Key Performance Indicators](FDS_Key-Performance-Indicator-Lists.md#Key-Performance-Indicators)
-  * [Common Denominators](docs/FDS_Key-Performance-Indicator-Lists.md#Common-Denominators)
+  * [Common Denominators](FDS_Key-Performance-Indicator-Lists.md#Common-Denominators)
 
 For more information about revisions and version updates, or to make suggestions for improvement, please visit our [Wiki Management](FDS_Wiki-Management.md) page.
 
