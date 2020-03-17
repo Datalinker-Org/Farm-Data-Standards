@@ -23,7 +23,7 @@ Data for the Animal Breed list uses the following sources: ICAR Interbull Breed 
 * [XLSX format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/animal-breeds-v1-1.xlsx)
 * [CSV format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/animal-breeds-v1-1.csv)
 
-Please [contact us](http://www.farmdatastandards.org.nz/contact/) if you have any questions or if you would like to have a breed added or altered.
+Please [contact us](https://github.com/Datalinker-Org/Datalinker-Org.io/blob/master/contact.md) if you have any questions or if you would like to have a breed added or altered.
 
 #### Cattle
 
