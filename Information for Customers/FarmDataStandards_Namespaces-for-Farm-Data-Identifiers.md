@@ -45,7 +45,7 @@ Please contact the Declared Registrant of the urn:nzl:pri: namespace below to re
 NZ Farm Data Standards
 New Zealand
 
-Use our [Contact page](http://www.farmdatastandards.org.nz/contact/) to email us.
+Use our [Contact page](https://github.com/Datalinker-Org/Datalinker-Org.io/blob/master/contact.md) to email us.
 
 You will be required to supply your organisation contact details (address and email), proposed namespace, scope of identifiers (entities covered), and optionally a POSIX regular expression that provides initial parsing for the identifiers.
 
