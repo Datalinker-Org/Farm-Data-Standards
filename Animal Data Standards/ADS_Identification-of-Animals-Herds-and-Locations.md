@@ -89,7 +89,7 @@ This standard requires the addition of a namespace when exchanging an identifier
 
 A registry process for top-level namespaces is administered by [IETF](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) (the Internet Engineering Task Force), and the process for using this is defined in RFC 3406<sup id="URN/Def">[7](#f7)</sup>.
 
-New Zealand livestock and farm recording system identifiers [SHALL](ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) be registered at [Farm Data Standards](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md#Registering%20your%20 Namespace%20Identifier), and issued with Namespace identifiers in the urn:nzl:farm: namespace (the NZ namespace was registered in RFC 4350<sup id="NZURN">[8](#f8)</sup>). Each NZ farm recording namespace registered [SHALL](ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) specify:
+New Zealand livestock and farm recording system identifiers [SHALL](ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) be registered at [Farm Data Standards](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Information%20for%20Customers/FarmDataStandards_Namespaces-for-Farm-Data-Identifiers.md#Registering%20your%20Namespace%20Identifier), and issued with Namespace identifiers in the urn:nzl:farm: namespace (the NZ namespace was registered in RFC 4350<sup id="NZURN">[8](#f8)</sup>). Each NZ farm recording namespace registered [SHALL](ADS_Definitions-And-Abbreviations_Interpretation.md#Interpretation) specify:
 
 1. The official name or description of the namespace;
 
