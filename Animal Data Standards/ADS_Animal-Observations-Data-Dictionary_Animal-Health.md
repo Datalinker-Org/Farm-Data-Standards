@@ -18,7 +18,7 @@ Role Diagnosed By | Enumeration | Veterinarian, Farmer, Technician.
 Affected Part | Enumeration | Body part or system affected, coded using [ICAR](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) diagnosis coding system<sup id="IARP">[1](#f1)</sup>.
 Disease Category | Enumeration | See [Animal Life](ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Life).
 Disease | String | Name of the disease.
-Disease Code | Enumeration | Using [ICAR](docs/ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) diagnosis coding system<sup id="ACVM">[2](#f2)</sup>, see [Animal Life](ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Life).
+Disease Code | Enumeration | Using [ICAR](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) diagnosis coding system<sup id="ACVM">[2](#f2)</sup>, see [Animal Life](ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Life).
 Disease Strain | String |
 
 #### Treatment
