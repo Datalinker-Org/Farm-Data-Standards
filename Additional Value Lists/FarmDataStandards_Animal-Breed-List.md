@@ -21,7 +21,7 @@ Data for the Animal Breed list uses the following sources: ICAR Interbull Breed 
 * [JSON format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/Breedlist-JSON-v1.2.json)
 * [PDF format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/animal-breeds-v1-1.pdf)
 * [XLSX format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/animal-breeds-v1-1.xlsx)
-* [CSV format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/animal-breeds-v1-1.csv)
+* [CSV format](https://raw.githubusercontent.com/Datalinker-Org/Farm-Data-Standards/master/Additional%20Value%20Lists/animal-breeds-v1-1.csv)
 
 Please [contact us](https://github.com/Datalinker-Org/Datalinker-Org.io/blob/master/contact.md) if you have any questions or if you would like to have a breed added or altered.
 
