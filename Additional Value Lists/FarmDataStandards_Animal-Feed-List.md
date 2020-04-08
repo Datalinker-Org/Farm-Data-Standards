@@ -2,6 +2,13 @@
 
 The Animal Feed List is comprised of the feed categories and types used in the 'Supplementary Feed Observation' found in the Pasture, Grazing, and Feed Data Standard. It is also used in the 'Feed Type Observation' section of the Animal Data Standard. 
 
+##### Download table
+
+* [JSON format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/Feed-supplements-list.json)
+* [PDF format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/Feed-supplements-list-1.pdf)
+* [XLSX format](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/Feed-supplements-list.xlsx)
+* [CSV format](https://raw.githubusercontent.com/Datalinker-Org/Farm-Data-Standards/master/Additional%20Value%20Lists/Feed-supplements-list.csv)
+
 Please [contact us](https://github.com/Datalinker-Org/Datalinker-Org.io/blob/master/contact.md) if you would like to have a Feed Type added or altered.
 
 Feed Category | Feed Type
