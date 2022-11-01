@@ -86,7 +86,7 @@ This document is part of a work stream focusing on Data Standards for interchang
 
 [FAO Domestic Animal Diversity Information System](http://www.fao.org/dad-is/data/en/).
 
-[Surgical Procedures](https://www.acvs.org/sites/default/files/files/Residency/Procedures/LA_Surgical_Procedures_9_13_2018.pdf), American College of Veterinary Procedures, 2012.
+[Surgical Procedures](https://www.acvs.org/sites/default/files/files/Residency/Procedures/Large%20Animal%20Surgical%20Procedures%20as%20of%2012-1-2020.pdf), American College of Veterinary Procedures, 2012.
 
 [EANCOM/GS1 XML](http://www.gs1.org/gsmp/kc/ecom/eancom_overview) GS1 standards for business messaging.
 
