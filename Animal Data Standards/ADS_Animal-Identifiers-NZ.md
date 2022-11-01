@@ -44,7 +44,7 @@ Breed Society Pedigree No | 123456-JR |The dairy industry herd book ID25 for ped
 
 <b id="f4">4.</b> [GS1](http://www.gs1.org/epcglobal). [↩](#GS1)
 
-<b id="f5">5.</b> [Animal Health Board](https://ospri.co.nz/) and [programme](https://ospri.co.nz/our-programmes/tbfree/about-the-tbfree-programme/purpose-and-plan/). [↩](#AHB)
+<b id="f5">5.</b> [Animal Health Board](https://ospri.co.nz/) and [programme]([https://ospri.co.nz/our-programmes/tbfree/about-the-tbfree-programme/purpose-and-plan/](https://www.ospri.co.nz/our-programmes/)). [↩](#AHB)
 
 <b id="f6">6.</b> NZS 8100, 2011 draft Herd Testing Standard (and earlier 2007 edition). [↩](#NZS)
 
