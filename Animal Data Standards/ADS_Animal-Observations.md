@@ -10,7 +10,7 @@ For the purpose of this Standard, an observation is the act or instance of viewi
 
 The Open Geospatial Consortium describes observations<sup id="OGC">[1](#f1)</sup> as involving “sampling of an ultimate feature of interest”. In geographic terms, many features can only be “sampled”. However, with animals and particularly groups of animals, “sampling” is an important concept. It may be that only a sample of the animals in a mob is weighed, or that a device takes a sample of the fat or protein in milk at a moment in time.
 
-An observation itself does not represent “state”. Instead an observation records sampling of the state of an animal at a point in time. As a result, an observation will not tell you when an animal lactated – only that at a point in time it was observed lactating, or that lactation was observed to begin or end. Changes to animal state ([Animal Life Data](ADS_Life-Data.md)) may be triggered by an observation, but the observation does not represent the state itself.
+An observation itself does not represent “state”. Instead an observation records sampling of the state of an animal at a point in time. As a result, an observation will not tell you when an animal lactated – only that at a point in time it was observed lactating, or that lactation was observed to begin or end. Changes to animal state ([Animal Life Data](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Life-Data.md) may be triggered by an observation, but the observation does not represent the state itself.
 
 #### Observation Attributes
 
