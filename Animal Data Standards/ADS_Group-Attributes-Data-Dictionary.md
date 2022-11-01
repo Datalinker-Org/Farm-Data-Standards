@@ -16,7 +16,7 @@ Animal Members | [URN](ADS_Definitions-And-Abbreviations_Interpretation.md#Defin
 Draft Gate | Integer | Gate number for use in a draft list. 
 Criteria | String | Representation of the criteria used to generate a group	
 Primary Sire Breed | Enumeration | There is no internationally recognised master list of livestock breeds. [ICAR](ADS_Definitions-And-Abbreviations_Interpretation.md#Definitions-And-Abbreviations) mandates a list of codes for bovine semen straws<sup id="ICAR">[1](#f1)</sup>, and Oklahoma State University publishes a useful list of livestock breeds<sup id="OKSB">[2](#f2)</sup>. The UN Food and Agriculture Organisation (FAO) maintains a database of all domestic livestock breeds<sup id="FOADAD">[3](#f3)</sup>. We have developed an Animal Breed List based upon the existing breed lists mentioned [here](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Animal-Breed-List.md).
-Primary Dam Breed | Enumeration | As for Primary Sire Breed. See [Animal Breed List](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/FarmDataStandards_Animal-Breed-List.md).
+Primary Dam Breed | Enumeration | As for Primary Sire Breed. See [Animal Breed List](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Additional%20Value%20Lists/FarmDataStandards_Animal-Breed-List.md).
 Status | Enumeration: Active, Inactive | Status of the Group. 	
 Primary Contact Details | XML, specified using EANCOM/GS1<sup id="GS1">[4](#f4)</sup>, EDIFACT<sup id="UN/EDIFACT">[5](#f5)</sup>, UBL<sup id="OASIS/UBL">[6](#f6)</sup>. | Name and contact information for the primary contact for the group.	
 
