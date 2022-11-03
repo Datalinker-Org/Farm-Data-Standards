@@ -52,6 +52,6 @@ Breed Society Pedigree No | 123456-JR |The dairy industry herd book ID25 for ped
 
 <b id="f8">8.</b> [SIL: Sheep Improvement Limited](https://www.sil.co.nz/) – a wholly owned subsidiary of Beef+Lamb NZ. [↩](#SIL)
 
-<b id="f9">9.</b> [Merino Select](http://www.sheepgenetics.org.au/Breeding-services/MERINOSELECT-Home). [↩](#Merino)
+<b id="f9">9.</b> [Merino Select](https://www.sheepgenetics.org.au/resources/merinoselect/). [↩](#Merino)
 
 <b id="f10">10.</b> [Interbull Guidelines](https://interbull.org/ib/nat_id_system). [↩](#Interbull)
