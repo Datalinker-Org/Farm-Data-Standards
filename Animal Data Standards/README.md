@@ -72,7 +72,7 @@ This document is part of a work stream focusing on Data Standards for interchang
 
 [International Agreement of Recording Practices Guidelines](https://www.icar.org/index.php/icar-recording-guidelines/) approved by the General Assembly of the International Committee for Animal Recording – ICAR, June 2012.  
 
-[The complete ICAR approved RFID devices and corresponding Manufacturers' Codes](https://www.icar.org/Guidelines/10-Identification-Device-Certification.pdf), International Committee for Animal Recording – ICAR, last updated 27 March 2014.
+[The complete ICAR approved RFID devices and corresponding Manufacturers' Codes](https://www.icar.org/index.php/rfid-devices-with-full-certification/), International Committee for Animal Recording – ICAR, last updated 27 March 2014.
 
 [ICAR Guidelines 2012](https://interbull.org/ib/icarbreedcodes), Section 8 Annex 1, pp 479-481, Breed Codes on Bovine Semen Straws for International Trade assigned by ICAR Sub-committee Interbull, International Committee for Animal Recording.  
 
