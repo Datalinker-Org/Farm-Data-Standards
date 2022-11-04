@@ -80,7 +80,7 @@ This document is part of a work stream focusing on Data Standards for interchang
 
 [AgriBase](https://www.asurequality.com/our-solutions/agribase/)™, AsureQuality.
 
-[New Zealand Industry Agreed Velvet Grading Guidelines](https://www.deernz.org.nz/assets/Deer-Hub/Velvet-and-antlers/Grading-Wapiti_2008_16.pdf), Deer Industry New Zealand, September 2013.
+[New Zealand Industry Agreed Velvet Grading Guidelines](https://www.deernz.org.nz/assets/Deer-Hub/Velvet-and-antlers/Grading-Wapiti_2008_16.pdf), Deer Industry New Zealand, September 2008.
 
 [Oklahoma State University Livestock Breeds](http://www.ansi.okstate.edu/breeds/).
 
