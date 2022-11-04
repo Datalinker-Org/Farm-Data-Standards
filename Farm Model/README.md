@@ -62,7 +62,7 @@ Part funded by New Zealand dairy farmers through [DairyNZ](https://www.dairynz.c
 ![DairyNZLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/DairyNZ_205x100.png)
 ![RMPPLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/RMPP_1_75.png)
 ![MPILogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/MPI.png)
-![FARMIQLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/FarmIQ_240x50.png)
+![FARMIQLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/FarmIQ.png)
 ![RezareSystemsLogo](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Images/RezareSystems_180x110.png)
 
 #### Referenced Documents
