@@ -77,7 +77,7 @@ Core Business Vocabulary ([CBV](http://www.gs1.org/gsmp/kc/epcglobal/cbv)).
 
 [Australian and New Zealand Standard Industrial Classification](http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1292.02006%20(Revision%202.0)?OpenDocument) (ANZSIC) 2006 with revisions.
 
-Feedipedia - [Forage Plants](http://www.overseer.org.nz/files/download/119b106220ef304)
+Feedipedia - [Forage Plants](https://www.feedipedia.org/content/feeds?category=15965&name=&common-name=&species=All&synonym=&status=All)
 
 OVERSEER – [Best Practice Data Input Standards](https://www.waikatoregion.govt.nz/assets/WRC/Council/Policy-and-Plans/HR/ReadProposedPlan/Overseer.pdf)
 
