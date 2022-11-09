@@ -48,7 +48,7 @@ Breed Society Pedigree No | 123456-JR |The dairy industry herd book ID25 for ped
 
 <b id="f6">6.</b> NZS 8100, 2011 draft Herd Testing Standard (and earlier 2007 edition). [↩](#NZS)
 
-<b id="f7">7.</b> For more about Traka tags, see the [NAIT Visual Tag guidelines](http://www.nait.co.nz/news-and-publications/nait-user-guides-and-fact-sheets/tagging-requirements/). [↩](#Tracka)
+<b id="f7">7.</b> For more about Traka tags, see the [NAIT Visual Tag guidelines](https://www.ospri.co.nz/assets/ResourcePDFs/NAIT-Tag-and-Register-Guide-FA-Web.pdf). [↩](#Tracka)
 
 <b id="f8">8.</b> [SIL: Sheep Improvement Limited](https://www.sil.co.nz/) – a wholly owned subsidiary of Beef+Lamb NZ. [↩](#SIL)
 
