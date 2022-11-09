@@ -41,7 +41,7 @@ Legal Description | String
 
 #### Cadastral Parcel
 
-(See [Farm Features](FFADS_Feature-Catalogue.md#Farm-Features) Farm Features and Attributes Data Standard for full definition)	   
+(See [Farm Features](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Features%20and%20Attributes/README.md) Farm Features and Attributes Data Standard for full definition)	   
 
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
