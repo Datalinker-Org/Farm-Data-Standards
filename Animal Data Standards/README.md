@@ -96,4 +96,4 @@ This document is part of a work stream focusing on Data Standards for interchang
 
 [CT Scan](http://www.mayoclinic.org/tests-procedures/ct-scan/basics/definition/prc-20014610) Mayo Clinic.
 
-[Mid-Infrared Spectroscopy](http://ritchie.chem.ox.ac.uk/research_files/midirspectroscopy.htm) The Ritchie Group – University of Oxford.
+Mid-Infrared Spectroscopy The Ritchie Group – University of Oxford.
