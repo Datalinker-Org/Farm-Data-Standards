@@ -158,7 +158,7 @@ This data dictionary [SHALL](IEDS_Definitions-and-Abbreviations_Interpretation.m
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Hours spent on collection areas | Integer: hours | Number of hours each day that animals spend on effluent collection areas.
-Animal species | Enumeration: see [Animal Life](ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Life) in the Animal Data Standard | Species binomial name or common name.
+Animal species | Enumeration: see [Animal Life]([ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Life](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Lifecycle-Data-Dictionary.md)) in the Animal Data Standard | Species binomial name or common name.
 Number of animals | Integer | Number of animals of species. 
 Effluent production rate | Float: m3/day, l/animal/day. | Amount of effluent produced in a time period.
 Total daily water use | Integer: litres/day (l/day), m3/day. | Amount of water used to wash down surfaces which collect effluent
