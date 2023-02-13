@@ -6,7 +6,7 @@ The following table defines items in entities that summarise irrigation. See the
 
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
-Average irrigation interval	| Integer | Time taken for irrigator to return to its starting point or days taken to irrigate farm, days.
+Average irrigation interval	| Integer | The average amount of time between repeat irrigation of the same area of land surface.
 Method of irrigation | Enumeration | See [Irrigation Equipment Observations](https://www.youtube.com/watch?v=vMMbeaJV4HM#Irrigation-Equipment-Observations) in the Irrigation & Effluent Data Standard.
 Area irrigated | Integer | Area expressed in m2 (SI unit) or hectares (ha, accepted non-SI unit). Implementations must clearly specify which unit is used, and ensure consistent use. For spatial data interchange m2 should be used<sup id="INSPIRE">[1](#f1)</sup>. 
 Days irrigated | Integer | Number of days of season irrigated.
