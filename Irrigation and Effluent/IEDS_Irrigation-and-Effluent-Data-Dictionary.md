@@ -106,7 +106,6 @@ Drainage index | Float: m3/ha/year | Volume of water draining through the area i
 Drawdown | Float: m | Difference between the static and pumping water level. 
 Flow rate | Float: m3/s | Flow rate of water from a pipe.
 Maximum well flow rate	| Float: l/s | Highest flow rate which a well can be pumped at.
-Natural water storage volume | Float: m3 | Amount of water naturally held by a reservoir.
 Pump type | Enumeration: Surface, submersible. | 
 Intended pumping water level | Integer: m | Water level during pumping. Also known as dynamic water level.
 Redistribution index | Float: m3/ha/year | Volume of water reaching the target area.
@@ -118,6 +117,7 @@ Typical stream velocity | Float: m3/s | Velocity of the flow of water in a strea
 Total storage volume | Float: m3 | Total volume of a reservoir or dam.
 Typical water lost | Float: mm/season | Typical amount of water lost to drainage and runoff.
 Water source | Enumeration: see [Water Source](IEDS_Lists-of-Enumerated-Values.md#Water-Source).
+Water storage volume | Float: m3 | Amount of water naturally held by a reservoir.
 Typical water use efficiency | Float:  mm tonne/DM	| Amount of water used in irrigation per tonne of dry matter produced.
 
 #### Water Supply Observations
@@ -158,7 +158,7 @@ This data dictionary [SHALL](IEDS_Definitions-and-Abbreviations_Interpretation.m
 Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Hours spent on collection areas | Integer: hours | Number of hours each day that animals spend on effluent collection areas.
-Animal species | Enumeration: see [Animal Life](ADS_Animal-Lifecycle-Data-Dictionary.md#Animal-Life) in the Animal Data Standard | Species binomial name or common name.
+Animal species | Enumeration: see [Animal Life](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Lifecycle-Data-Dictionary.md) in the Animal Data Standard | Species binomial name or common name.
 Number of animals | Integer | Number of animals of species. 
 Effluent production rate | Float: m3/day, l/animal/day. | Amount of effluent produced in a time period.
 Total daily water use | Integer: litres/day (l/day), m3/day. | Amount of water used to wash down surfaces which collect effluent

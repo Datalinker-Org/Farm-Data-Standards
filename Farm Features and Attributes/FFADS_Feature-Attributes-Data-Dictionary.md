@@ -22,7 +22,7 @@ Attributes | Data Types | Notes
 :--------- | :--------- | :----
 Plot Type |	Enumeration | Field, Paddock
 Plot Name | String | the name used to refer to the field or paddock within the farm.
-Plot Activity Value | Enumeration | the type of vegetation grown here: e.g. permanent grassland.  For INSPIRE code list, see [Plot Activity Value Enumeration List](FFA_Enumeration-Lists.md#Plot-Activity-Value-Enumeration-List).
+Plot Activity Value | Enumeration | the type of vegetation grown here: e.g. permanent grassland.  For INSPIRE code list, see [Plot Activity Value Enumeration List](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Farm%20Features%20and%20Attributes/FFADS_Enumeration-Lists.md#Plot-Activity-Value).
 Secondary Plot Activity Value | String | Description of any secondary values relevant to the plot, i.e. fodder beet section on grazing plot.
 Pasture Type | Enumeration | Ryegrass/white clover, Browntop, Unimproved/tussock grasslands, SummerC4 (paspalum) pastures, C4 (kikuyu) pastures, Lucerne, Grass only (enumeration defined by Overseer<sup id="OVERSEER">[1](#f1)</sup>)
 Pasture utilisation | Integer | %
