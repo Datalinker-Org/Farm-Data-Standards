@@ -22,7 +22,9 @@ For historic reasons it will be necessary to support the interchange of data uti
 
 For specific interchanges agreed between two parties, the parties may agree to exchange identifiers within a single namespace only, and dispense with the namespace prefix.
 
-The Animal Data Standard (see [Groups of Animals](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Groups-of-Animals.md), [Observation Attributes](ADS_Animal-Observations.md#Observation-Attributes) and [Group Membership](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Lifecycle-Data-Dictionary_Group-Membership.md)) refers to mobs in its discussion of groups of animals. The Grazing observation is defined in this Grazing and Feed Data Standard for mobs.  A mob is identified by a group name.  It is uniquely identified by a [URN](PGFDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) identifier and may have a non-unique display name.
+The Animal Data Standard (see [Groups of Animals](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Groups-of-Animals.md), [Observation Attributes](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Observations.md#Observation-Attributes) and [Group Membership](https://github.com/Datalinker-Org/Farm-Data-Standards/blob/master/Animal%20Data%20Standards/ADS_Animal-Lifecycle-Data-Dictionary_Group-Membership.md)) refers to mobs in its discussion of groups of animals. The Grazing observation is defined in this Grazing and Feed Data Standard for mobs.  A mob is identified by a group name.  It is uniquely identified by a [URN](PGFDS_Definitions-and-Abbreviations_Interpretation.md#Definitions-and-Abbreviations) identifier and may have a non-unique display name.
+=======
+
 
 #### Footnotes
 
