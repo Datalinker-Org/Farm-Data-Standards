@@ -82,6 +82,6 @@ Emergency Location | Emergency Location Type | Enumeration | First Aid Point, Ev
 
 #### Footnotes
 
-<b id="f1">1</b> OVERSEER is a trademark and a computer software model: See [www.overseer.org.nz](www.overseer.org.nz) for more information. Parameters should be collected in line with the [OVERSEER Best Practice Data Input Standards](https://www.waikatoregion.govt.nz/assets/WRC/Council/Policy-and-Plans/HR/ReadProposedPlan/Overseer.pdf). [↩](#OVERSEER) [↩](#OVERSEER1)
+<b id="f1">1</b> OVERSEER is a trademark and a computer software model: See [www.overseer.org.nz](https://www.overseer.org.nz/) for more information. Parameters should be collected in line with the [OVERSEER Best Practice Data Input Standards](https://www.waikatoregion.govt.nz/assets/WRC/Council/Policy-and-Plans/HR/ReadProposedPlan/Overseer.pdf). [↩](#OVERSEER) [↩](#OVERSEER1)
 
 <b id="f1">1</b> See section 6.1.3 of INSPIRE Data Specification on Administrative Units – [Technical Guidelines](https://inspire.ec.europa.eu/id/document/tg/au) [↩](#INSPIRE) [↩](#INSPIRE1) [↩](#INSPIRE2)
